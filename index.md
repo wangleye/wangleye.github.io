@@ -12,6 +12,8 @@ Urban Computing ToolBox is a package providing spatial-temporal predicting model
 
 ## Selected Publications
 
+For full publication list, please visit my [Google Scholar](https://scholar.google.com/citations?user=o2I4sL8AAAAJ&hl=en) or [DBLP](https://dblp.uni-trier.de/pid/07/8764.html) page.
+
 ### Crowdsensing
 
 - **L. Wang**, D. Zhang, D. Yang, B. Y. Lim, X. Han, X. Ma, “Sparse Mobile Crowdsensing with Differential and Distortion Location Privacy”. IEEE Trans. Information Forensics and Security, 15(1): 2735-2749 (2020).
