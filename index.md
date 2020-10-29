@@ -16,25 +16,27 @@ Urban Computing ToolBox is a package providing spatial-temporal predicting model
 
 **L. Wang**, D. Yang, X. Han, D. Zhang, X. Ma, “Mobile Crowdsourcing Task Allocation with Differential-and-Distortion Geo-Obfuscation”. IEEE Trans. Dependable and Secure Computing, accepted (2019).
 
-**L. Wang**, G. Qin, D. Yang, X. Han, X. Ma. “Geographic Differential Privacy for Mobile Crowd Coverage Maximization”. AAAI 2018: 200-207.
+**L. Wang**, G. Qin, D. Yang, X. Han, X. Ma. “Geographic Differential Privacy for Mobile Crowd Coverage Maximization”. AAAI 2018: 200-207. (2018)
 
-**L. Wang**, D. Yang, X. Han, T. Wang, D. Zhang, X. Ma. “Location Privacy-Preserving Task Allocation in Mobile Crowdsensing with Differential Geo-Obfuscation”. WWW 2017: 627-636.
+**L. Wang**, D. Yang, X. Han, T. Wang, D. Zhang, X. Ma. “Location Privacy-Preserving Task Allocation in Mobile Crowdsensing with Differential Geo-Obfuscation”. WWW 2017: 627-636. (2017)
 
 **L. Wang**, D. Zhang, Y. Wang, C. Chen, X. Han, A. Mhamed. “Sparse Mobile Crowdsensing: Challenges and Opportunities”. IEEE Comm. Mag. 54(7): 161-167 (2016).
 
-**L. Wang**, D. Zhang, D. Yang, B. Y. Lim, X. Ma. “Differential Location Privacy in Sparse Mobile Crowdsensing”. ICDM 2016: 1257-1262.
+**L. Wang**, D. Zhang, D. Yang, B. Y. Lim, X. Ma. “Differential Location Privacy in Sparse Mobile Crowdsensing”. ICDM 2016: 1257-1262. (2016)
 
-**L. Wang**, D. Zhang, A. Pathak, C. Chen, H. Xiong, D. Yang, Y. Wang. “CCS-TA: Quality-Guaranteed Online Task Allocation in Compressive Crowdsensing”. UbiComp 2015: 683-694.
+**L. Wang**, D. Zhang, A. Pathak, C. Chen, H. Xiong, D. Yang, Y. Wang. “CCS-TA: Quality-Guaranteed Online Task Allocation in Compressive Crowdsensing”. UbiComp 2015: 683-694. (2015)
 
 ### Spatio-temporal AI
 
 **L. Wang**, X. Geng, X. Ma, D. Zhang, Q. Yang, “Ridesharing Car Detection by Transfer Learning”. Artificial Intelligence, 273: 1-18 (2019).
 
-**L. Wang**, X. Geng, X. Ma, F. Liu, Q. Yang. “Cross-City Transfer Learning for Deep Spatiotemporal Prediction”. IJCAI 2019: 1893-1899.
+**L. Wang**, X. Geng, X. Ma, F. Liu, Q. Yang. “Cross-City Transfer Learning for Deep Spatiotemporal Prediction”. IJCAI 2019: 1893-1899. (2019)
 
-X. Geng, Y. Li, **L. Wang**, L. Zhang, J. Ye, Y. Liu, Q. Yang. “Spatiotemporal Multi-Graph Convolution Network for Ride-hailing Demand Forecasting”. AAAI 2019: 3656-3663.
+X. Geng, Y. Li, **L. Wang**, L. Zhang, J. Ye, Y. Liu, Q. Yang. “Spatiotemporal Multi-Graph Convolution Network for Ride-hailing Demand Forecasting”. AAAI 2019: 3656-3663. (2019)
 
-D. Chai, **L. Wang**, Q. Yang. “Bike Flow Prediction with Multi-Graph Convolutional Networks”. SIGSPATIAL/GIS 2018: 397-400.
+**L. Wang**, B. Guo, Q. Yang, “Smart City Development with Urban Transfer Learning”. IEEE Computer 51(12): 32-41 (2018).
+
+D. Chai, **L. Wang**, Q. Yang. “Bike Flow Prediction with Multi-Graph Convolutional Networks”. SIGSPATIAL/GIS 2018: 397-400. (2018)
 
 ### Privacy & Security
 
