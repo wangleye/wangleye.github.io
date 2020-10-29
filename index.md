@@ -50,3 +50,8 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 - X. Han, H. Huang, **L. Wang**, “F-PAD: Private Attribute Disclosure Risk Estimation in Online Social Networks”. IEEE Trans. Dependable and Secure Computing, 16(6): 1054-1069 (2019).
 
+### Supervised Students
+
+- Liyue Chen (PhD Student @ PKU, 2020-)
+- Ruiqing Ding (PhD Student @ PKU, 2020-)
+
