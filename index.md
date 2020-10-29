@@ -10,7 +10,7 @@ Email: leyewang@pku.edu.cn
 
 Urban Computing ToolBox is a package providing spatial-temporal predicting models. It contains both conventional models and state-of-art deep learning models. Besides, benchmark datasets built from open data are included. More details in:
 
-Wang, L., Chai, D., Liu, X., Chen, L., & Chen, K. (2020). Exploring the Generalizability of Spatio-Temporal Crowd Flow Prediction: Meta-Modeling and an Analytic Framework. arXiv preprint arXiv:2009.09379. [[Arxiv](https://arxiv.org/pdf/2009.09379.pdf)] 
+- Wang, L., Chai, D., Liu, X., Chen, L., & Chen, K. (2020). Exploring the Generalizability of Spatio-Temporal Crowd Flow Prediction: Meta-Modeling and an Analytic Framework. arXiv preprint arXiv:2009.09379. [[Arxiv](https://arxiv.org/pdf/2009.09379.pdf)] 
 
 ## Selected Publications
 
