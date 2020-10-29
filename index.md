@@ -24,15 +24,15 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 - **L. Wang**, D. Yang, X. Han, T. Wang, D. Zhang, X. Ma. “Location Privacy-Preserving Task Allocation in Mobile Crowdsensing with Differential Geo-Obfuscation”. WWW 2017: 627-636. (2017)
 
-- **L. Wang**, D. Zhang, Y. Wang, C. Chen, X. Han, A. Mhamed. “Sparse Mobile Crowdsensing: Challenges and Opportunities”. IEEE Comm. Mag. 54(7): 161-167 (2016).
+- **L. Wang**, D. Zhang, Y. Wang, C. Chen, X. Han, A. Mhamed. “Sparse Mobile Crowdsensing: Challenges and Opportunities”. IEEE Comm. Mag. 54(7): 161-167 (2016). [Top 10 cited paper of crowdsensing 2015-2020 by Microsoft Academic]
 
 - **L. Wang**, D. Zhang, D. Yang, B. Y. Lim, X. Ma. “Differential Location Privacy in Sparse Mobile Crowdsensing”. ICDM 2016: 1257-1262. (2016)
 
-- **L. Wang**, D. Zhang, A. Pathak, C. Chen, H. Xiong, D. Yang, Y. Wang. “CCS-TA: Quality-Guaranteed Online Task Allocation in Compressive Crowdsensing”. UbiComp 2015: 683-694. (2015)
+- **L. Wang**, D. Zhang, A. Pathak, C. Chen, H. Xiong, D. Yang, Y. Wang. “CCS-TA: Quality-Guaranteed Online Task Allocation in Compressive Crowdsensing”. UbiComp 2015: 683-694. (2015) [Top 10 cited paper of crowdsensing 2015-2020 by Microsoft Academic]
 
 ### Spatio-temporal AI
 
-- **L. Wang**, X. Geng, X. Ma, D. Zhang, Q. Yang, “Ridesharing Car Detection by Transfer Learning”. Artificial Intelligence, 273: 1-18 (2019).
+- **L. Wang**, X. Geng, X. Ma, D. Zhang, Q. Yang, “Ridesharing Car Detection by Transfer Learning”. Artificial Intelligence, 273: 1-18 (2019). [[news](https://www.journals.elsevier.com/artificial-intelligence/news/dont-be-taken-for-a-ride-ai-helps-spot-ridesharing-cheats)]
 
 - **L. Wang**, X. Geng, X. Ma, F. Liu, Q. Yang. “Cross-City Transfer Learning for Deep Spatiotemporal Prediction”. IJCAI 2019: 1893-1899. (2019)
 
