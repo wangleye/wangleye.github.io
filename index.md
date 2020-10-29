@@ -8,7 +8,9 @@ Email: leyewang@pku.edu.cn
 
 ### [UCTB (Urban Computing ToolBox)](https://github.com/uctb/UCTB)
 
-Urban Computing ToolBox is a package providing spatial-temporal predicting models. It contains both conventional models and state-of-art deep learning models. Besides, benchmark datasets built from open data are included.
+- Urban Computing ToolBox is a package providing spatial-temporal predicting models. It contains both conventional models and state-of-art deep learning models. Besides, benchmark datasets built from open data are included.
+
+- Wang, L., Chai, D., Liu, X., Chen, L., & Chen, K. (2020). Exploring the Generalizability of Spatio-Temporal Crowd Flow Prediction: Meta-Modeling and an Analytic Framework. arXiv preprint arXiv:2009.09379. [Arxiv](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fpdf%2F2009.09379.pdf&sa=D&sntz=1&usg=AFQjCNG3qy2CCzGyooJbyvO_lETmmvUtUg) 
 
 ## Selected Publications
 
