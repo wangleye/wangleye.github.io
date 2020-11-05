@@ -55,5 +55,5 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 ### Supervised Students
 
 - [Liyue Chen](https://liyue-chen.github.io/) (PhD Student @ PKU, 2020-)
-- Ruiqing Ding (PhD Student @ PKU, 2020-)
+- [Ruiqing Ding](https://ruiqingding.github.io/) (PhD Student @ PKU, 2020-)
 
