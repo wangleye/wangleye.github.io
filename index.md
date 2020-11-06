@@ -10,7 +10,7 @@ Email: leyewang@pku.edu.cn
 
 Urban Computing ToolBox is a package providing spatial-temporal predicting models. It contains both conventional models and state-of-art deep learning models. Besides, benchmark datasets built from open data are included. More details in:
 
-- Wang, L., Chai, D., Liu, X., Chen, L., & Chen, K. (2020). Exploring the Generalizability of Spatio-Temporal Crowd Flow Prediction: Meta-Modeling and an Analytic Framework. arXiv preprint arXiv:2009.09379. [[Arxiv](https://arxiv.org/pdf/2009.09379.pdf)] 
+- **L. Wang**, D. Chai, X. Liu, L. Chen, & K. Chen (2020). Exploring the Generalizability of Spatio-Temporal Crowd Flow Prediction: Meta-Modeling and an Analytic Framework. arXiv preprint arXiv:2009.09379. [[Arxiv](https://arxiv.org/pdf/2009.09379.pdf)] 
 
 ## Selected Publications
 
@@ -33,6 +33,8 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 - **L. Wang**, D. Zhang, A. Pathak, C. Chen, H. Xiong, D. Yang, Y. Wang. “CCS-TA: Quality-Guaranteed Online Task Allocation in Compressive Crowdsensing”. UbiComp 2015: 683-694 (2015). [**Top 10 cited paper of crowdsensing 2015-2020 by Microsoft Academic**]
 
 ### Spatio-temporal AI
+
+- **L. Wang**, D. Chai, X. Liu, L. Chen, & K. Chen (2020). Exploring the Generalizability of Spatio-Temporal Crowd Flow Prediction: Meta-Modeling and an Analytic Framework. arXiv preprint arXiv:2009.09379. [[Arxiv](https://arxiv.org/pdf/2009.09379.pdf)] 
 
 - **L. Wang**, X. Geng, X. Ma, D. Zhang, Q. Yang, “Ridesharing Car Detection by Transfer Learning”. Artificial Intelligence, 273: 1-18 (2019). [**[news](https://www.journals.elsevier.com/artificial-intelligence/news/dont-be-taken-for-a-ride-ai-helps-spot-ridesharing-cheats)**]
 
