@@ -10,13 +10,13 @@ Email: leyewang@pku.edu.cn
 
 Urban Computing ToolBox is a package providing spatial-temporal predicting models. It contains both conventional models and state-of-art deep learning models. Besides, benchmark datasets built from open data are included. More details in:
 
-- **L. Wang**, D. Chai, X. Liu, L. Chen, & K. Chen. Exploring the Generalizability of Spatio-Temporal Crowd Flow Prediction: Meta-Modeling and an Analytic Framework. arXiv preprint arXiv:2009.09379 (2020). [[Arxiv](https://arxiv.org/pdf/2009.09379.pdf)] 
+- **L. Wang**, D. Chai, X. Liu, L. Chen, & K. Chen. "Exploring the Generalizability of Spatio-Temporal Crowd Flow Prediction: Meta-Modeling and an Analytic Framework". arXiv preprint arXiv:2009.09379 (2020). [[Arxiv](https://arxiv.org/pdf/2009.09379.pdf)] 
 
 ### [FedEval (Federated Learning Evaluation System)](https://github.com/Di-Chai/FedEval)
 
 FedEval is a federated learning benchmark system with a comprehensive evaluation model, ACTPR, inside. The ACTPR model is the core of our benchmarking system. It defines five evaluation metrics for the FL systems: Accuracy, Communication, Time consumption, Privacy and Robustness.
 
-- D. Chai, **L. Wang**, K. Chen, & Q. Yang. FedEval: A Benchmark System with a Comprehensive Evaluation Model for Federated Learning. arXiv preprint arXiv:2011.09655v2 (2020). [[Arxiv](https://arxiv.org/pdf/2011.09655.pdf)]
+- D. Chai, **L. Wang**, K. Chen, & Q. Yang. "FedEval: A Benchmark System with a Comprehensive Evaluation Model for Federated Learning". arXiv preprint arXiv:2011.09655v2 (2020). [[Arxiv](https://arxiv.org/pdf/2011.09655.pdf)]
 
 ## Selected Publications
 
@@ -40,7 +40,7 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 ### Spatio-temporal AI
 
-- **L. Wang**, D. Chai, X. Liu, L. Chen, & K. Chen. Exploring the Generalizability of Spatio-Temporal Crowd Flow Prediction: Meta-Modeling and an Analytic Framework. arXiv preprint arXiv:2009.09379 (2020). [[Arxiv](https://arxiv.org/pdf/2009.09379.pdf)] 
+- **L. Wang**, D. Chai, X. Liu, L. Chen, & K. Chen. "Exploring the Generalizability of Spatio-Temporal Crowd Flow Prediction: Meta-Modeling and an Analytic Framework". arXiv preprint arXiv:2009.09379 (2020). [[Arxiv](https://arxiv.org/pdf/2009.09379.pdf)] 
 
 - **L. Wang**, X. Geng, X. Ma, D. Zhang, Q. Yang, “Ridesharing Car Detection by Transfer Learning”. Artificial Intelligence, 273: 1-18 (2019). [**[news](https://www.journals.elsevier.com/artificial-intelligence/news/dont-be-taken-for-a-ride-ai-helps-spot-ridesharing-cheats)**]
 
@@ -54,7 +54,7 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 ### Privacy & Security
 
-- D. Chai, **L. Wang**, K. Chen, & Q. Yang. FedEval: A Benchmark System with a Comprehensive Evaluation Model for Federated Learning. arXiv preprint arXiv:2011.09655v2 (2020). [[Arxiv](https://arxiv.org/pdf/2011.09655.pdf)]
+- D. Chai, **L. Wang**, K. Chen, & Q. Yang. "FedEval: A Benchmark System with a Comprehensive Evaluation Model for Federated Learning". arXiv preprint arXiv:2011.09655v2 (2020). [[Arxiv](https://arxiv.org/pdf/2011.09655.pdf)]
 
 - X. Han, **L. Wang**, W. Fan, “Hidden Is Safe? Location Protection against Machine-Learning Prediction Attacks in Social Networks”. MIS Quarterly, accepted (2020).
 
