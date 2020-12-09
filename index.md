@@ -12,6 +12,12 @@ Urban Computing ToolBox is a package providing spatial-temporal predicting model
 
 - **L. Wang**, D. Chai, X. Liu, L. Chen, & K. Chen. Exploring the Generalizability of Spatio-Temporal Crowd Flow Prediction: Meta-Modeling and an Analytic Framework. arXiv preprint arXiv:2009.09379 (2020). [[Arxiv](https://arxiv.org/pdf/2009.09379.pdf)] 
 
+### [FedEval (Federated Learning Evaluation System)](https://github.com/Di-Chai/FedEval)
+
+FedEval is a federated learning benchmark system with a comprehensive evaluation model, ACTPR, inside. The ACTPR model is the core of our benchmarking system. It defines five evaluation metrics for the FL systems: Accuracy, Communication, Time consumption, Privacy and Robustness.
+
+- D. Chai, **L. Wang**, K. Chen, & Q. Yang. FedEval: A Benchmark System with a Comprehensive Evaluation Model for Federated Learning. arXiv preprint arXiv:2011.09655v2 (2020). [[Arxiv](https://arxiv.org/pdf/2011.09655.pdf)]
+
 ## Selected Publications
 
 For full publication list, please visit my [Google Scholar](https://scholar.google.com/citations?user=o2I4sL8AAAAJ&hl=en) or [DBLP](https://dblp.uni-trier.de/pid/07/8764.html) page.
@@ -47,6 +53,8 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 - D. Chai, **L. Wang**, Q. Yang. “Bike Flow Prediction with Multi-Graph Convolutional Networks”. SIGSPATIAL/GIS 2018: 397-400 (2018).
 
 ### Privacy & Security
+
+- D. Chai, **L. Wang**, K. Chen, & Q. Yang. FedEval: A Benchmark System with a Comprehensive Evaluation Model for Federated Learning. arXiv preprint arXiv:2011.09655v2 (2020). [[Arxiv](https://arxiv.org/pdf/2011.09655.pdf)]
 
 - X. Han, **L. Wang**, W. Fan, “Hidden Is Safe? Location Protection against Machine-Learning Prediction Attacks in Social Networks”. MIS Quarterly, accepted (2020).
 
