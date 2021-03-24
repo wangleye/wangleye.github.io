@@ -12,7 +12,7 @@ Urban Computing ToolBox is a package providing spatial-temporal predicting model
 
 - **L. Wang**, D. Chai, X. Liu, L. Chen, & K. Chen. "Exploring the Generalizability of Spatio-Temporal Crowd Flow Prediction: Meta-Modeling and an Analytic Framework". arXiv preprint arXiv:2009.09379 (2020). [[Arxiv](https://arxiv.org/pdf/2009.09379.pdf)] 
 
-- 陈李越，柴迪，**王乐业**. "UCTB: 时空人群流动预测工具箱". 计算机科学与探索. [[Link](http://fcst.ceaj.org/CN/abstract/abstract2577.shtml)]
+- 陈李越，柴迪，**王乐业**. "UCTB: 时空人群流动预测工具箱". 计算机科学与探索 (2021). [[Link](http://fcst.ceaj.org/CN/abstract/abstract2577.shtml)]
 
 ### [FedEval (Federated Learning Evaluation System)](https://github.com/Di-Chai/FedEval)
 
