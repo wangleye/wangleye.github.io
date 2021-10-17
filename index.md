@@ -48,7 +48,7 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 - **L. Wang**, X. Geng, X. Ma, F. Liu, Q. Yang. “Cross-City Transfer Learning for Deep Spatiotemporal Prediction”. IJCAI 2019: 1893-1899 (2019).
 
-- X. Geng, Y. Li, **L. Wang**, L. Zhang, J. Ye, Y. Liu, Q. Yang. “Spatiotemporal Multi-Graph Convolution Network for Ride-hailing Demand Forecasting”. AAAI 2019: 3656-3663 (2019).
+- X. Geng, Y. Li, **L. Wang**, L. Zhang, J. Ye, Y. Liu, Q. Yang. “Spatiotemporal Multi-Graph Convolution Network for Ride-hailing Demand Forecasting”. AAAI 2019: 3656-3663 (2019).[**[Most Influential Papers in AAAI 2019](https://www.paperdigest.org/2021/02/most-influential-aaai-papers/)]
 
 - **L. Wang**, B. Guo, Q. Yang, “Smart City Development with Urban Transfer Learning”. IEEE Computer 51(12): 32-41 (2018).
 
