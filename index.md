@@ -44,7 +44,7 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 - **L. Wang**, D. Chai, X. Liu, L. Chen, & K. Chen. "Exploring the Generalizability of Spatio-Temporal Crowd Flow Prediction: Meta-Modeling and an Analytic Framework". arXiv preprint arXiv:2009.09379 (2020). [[Arxiv](https://arxiv.org/pdf/2009.09379.pdf)] 
 
-- **L. Wang**, X. Geng, X. Ma, D. Zhang, Q. Yang, “Ridesharing Car Detection by Transfer Learning”. Artificial Intelligence, 273: 1-18 (2019). [**[news](https://www.journals.elsevier.com/artificial-intelligence/news/dont-be-taken-for-a-ride-ai-helps-spot-ridesharing-cheats)**]
+- **L. Wang**, X. Geng, X. Ma, D. Zhang, Q. Yang, “Ridesharing Car Detection by Transfer Learning”. Artificial Intelligence, 273: 1-18 (2019). [**[Highlight News](https://www.journals.elsevier.com/artificial-intelligence/news/dont-be-taken-for-a-ride-ai-helps-spot-ridesharing-cheats)**]
 
 - **L. Wang**, X. Geng, X. Ma, F. Liu, Q. Yang. “Cross-City Transfer Learning for Deep Spatiotemporal Prediction”. IJCAI 2019: 1893-1899 (2019).
 
