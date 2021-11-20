@@ -58,9 +58,11 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 - D. Chai, **L. Wang**, K. Chen, & Q. Yang. "FedEval: A Benchmark System with a Comprehensive Evaluation Model for Federated Learning". arXiv preprint arXiv:2011.09655v2 (2020). [[Arxiv](https://arxiv.org/pdf/2011.09655.pdf)]
 
-- X. Han, **L. Wang**, W. Fan, “Hidden Is Safe? Location Protection against Machine-Learning Prediction Attacks in Social Networks”. MIS Quarterly, accepted (2020).
+- X. Han, **L. Wang**, W. Fan, “Hidden Is Safe? Location Protection against Machine-Learning Prediction Attacks in Social Networks”. MIS Quarterly, 45(2) (2021).
 
-- D. Chai, **L. Wang**, K. Chen, Q. Yang, “Secure Federated Matrix Factorization”. Intelligent Systems, accepted (2020).
+- D. Chai, **L. Wang**, K. Chen, Q. Yang, “Secure Federated Matrix Factorization”. IEEE Intelligent Systems, 36(5): 11-20 (2021).
+
+- D. Chai, **L. Wang**, K. Chen, Q. Yang, “Secure Federated Matrix Factorization”. ACM Trans. Intelligent Systems and Technology, 36(5): 11-20 (2021).
 
 - X. Han, H. Huang, **L. Wang**, “F-PAD: Private Attribute Disclosure Risk Estimation in Online Social Networks”. IEEE Trans. Dependable and Secure Computing, 16(6): 1054-1069 (2019).
 
