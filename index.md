@@ -26,9 +26,9 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 ### Crowdsensing
 
-- **L. Wang**, D. Zhang, D. Yang, B. Y. Lim, X. Han, X. Ma, “Sparse Mobile Crowdsensing with Differential and Distortion Location Privacy”. IEEE Trans. Information Forensics and Security, 15(1): 2735-2749 (2020).
+- **L. Wang**, D. Yang, X. Han, D. Zhang, X. Ma, “Mobile Crowdsourcing Task Allocation with Differential-and-Distortion Geo-Obfuscation”. IEEE Trans. Dependable and Secure Computing, 18(2): 967-981 (2021).
 
-- **L. Wang**, D. Yang, X. Han, D. Zhang, X. Ma, “Mobile Crowdsourcing Task Allocation with Differential-and-Distortion Geo-Obfuscation”. IEEE Trans. Dependable and Secure Computing, early access (2019).
+- **L. Wang**, D. Zhang, D. Yang, B. Y. Lim, X. Han, X. Ma, “Sparse Mobile Crowdsensing with Differential and Distortion Location Privacy”. IEEE Trans. Information Forensics and Security, 15(1): 2735-2749 (2020).
 
 - **L. Wang**, G. Qin, D. Yang, X. Han, X. Ma. “Geographic Differential Privacy for Mobile Crowd Coverage Maximization”. AAAI 2018: 200-207 (2018).
 
