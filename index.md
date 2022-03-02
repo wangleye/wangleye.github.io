@@ -52,7 +52,7 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 - **L. Wang**, B. Guo, Q. Yang, “Smart City Development with Urban Transfer Learning”. IEEE Computer 51(12): 32-41 (2018).
 
-- D. Chai, **L. Wang**, Q. Yang. “Bike Flow Prediction with Multi-Graph Convolutional Networks”. SIGSPATIAL/GIS 2018: 397-400 (2018).
+- D. Chai, **L. Wang**, Q. Yang. “Bike Flow Prediction with Multi-Graph Convolutional Networks”. SIGSPATIAL/GIS 2018: 397-400 (2018). [**Top 1 highly-cited paper in GIS 2018**]
 
 ### Privacy & Security
 
