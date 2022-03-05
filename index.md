@@ -34,11 +34,11 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 - **L. Wang**, D. Yang, X. Han, T. Wang, D. Zhang, X. Ma. “Location Privacy-Preserving Task Allocation in Mobile Crowdsensing with Differential Geo-Obfuscation”. WWW 2017: 627-636 (2017).
 
-- **L. Wang**, D. Zhang, Y. Wang, C. Chen, X. Han, A. Mhamed. “Sparse Mobile Crowdsensing: Challenges and Opportunities”. IEEE Comm. Mag. 54(7): 161-167 (2016). [**Top 10 cited paper of crowdsensing 2015-2020 by Microsoft Academic**]
+- **L. Wang**, D. Zhang, Y. Wang, C. Chen, X. Han, A. Mhamed. “Sparse Mobile Crowdsensing: Challenges and Opportunities”. IEEE Comm. Mag. 54(7): 161-167 (2016). [**Top 10 most cited paper of crowdsensing 2015-2020 by Microsoft Academic**]
 
 - **L. Wang**, D. Zhang, D. Yang, B. Y. Lim, X. Ma. “Differential Location Privacy in Sparse Mobile Crowdsensing”. ICDM 2016: 1257-1262 (2016).
 
-- **L. Wang**, D. Zhang, A. Pathak, C. Chen, H. Xiong, D. Yang, Y. Wang. “CCS-TA: Quality-Guaranteed Online Task Allocation in Compressive Crowdsensing”. UbiComp 2015: 683-694 (2015). [**Top 10 cited paper of crowdsensing 2015-2020 by Microsoft Academic**]
+- **L. Wang**, D. Zhang, A. Pathak, C. Chen, H. Xiong, D. Yang, Y. Wang. “CCS-TA: Quality-Guaranteed Online Task Allocation in Compressive Crowdsensing”. UbiComp 2015: 683-694 (2015). [**Top 10 most cited papers of crowdsensing 2015-2020 by Microsoft Academic**]
 
 ### Spatio-temporal AI
 
@@ -52,7 +52,7 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 - **L. Wang**, B. Guo, Q. Yang, “Smart City Development with Urban Transfer Learning”. IEEE Computer 51(12): 32-41 (2018).
 
-- D. Chai, **L. Wang**, Q. Yang. “Bike Flow Prediction with Multi-Graph Convolutional Networks”. SIGSPATIAL/GIS 2018: 397-400 (2018). [**Top 1 highly-cited paper in GIS 2018**]
+- D. Chai, **L. Wang**, Q. Yang. “Bike Flow Prediction with Multi-Graph Convolutional Networks”. SIGSPATIAL/GIS 2018: 397-400 (2018). [**Top 1 most cited paper in GIS 2018**]
 
 ### Privacy & Security
 
