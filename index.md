@@ -70,4 +70,6 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 - [Liyue Chen](https://liyue-chen.github.io/) (PhD Student @ PKU, 2020-)
 - [Ruiqing Ding](https://ruiqingding.github.io/) (PhD Student @ PKU, 2020-)
+- Guanghong Fan (PhD Student @ PKU, 2021-)
+- Jie Zhu (PhD Student @ PKU, 2021-) 
 
