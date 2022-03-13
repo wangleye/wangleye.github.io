@@ -42,7 +42,7 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 ### Spatio-temporal AI
 
-- **L. Wang**, D. Chai, X. Liu, L. Chen, & K. Chen. "Exploring the Generalizability of Spatio-Temporal Traffic Prediction: Meta-Modeling and an Analytic Framework". IEEE Trans. Knowledge and Data Engineering, accepted (2021). [[Arxiv](https://arxiv.org/pdf/2009.09379.pdf)] 
+- **L. Wang**, D. Chai, X. Liu, L. Chen, & K. Chen. "Exploring the Generalizability of Spatio-Temporal Traffic Prediction: Meta-Modeling and an Analytic Framework". IEEE Trans. Knowledge and Data Engineering, accepted (2021). [[IEEE](https://ieeexplore.ieee.org/document/9627543)][[Arxiv](https://arxiv.org/pdf/2009.09379.pdf)] 
 
 - **L. Wang**, X. Geng, X. Ma, D. Zhang, Q. Yang, “Ridesharing Car Detection by Transfer Learning”. Artificial Intelligence, 273: 1-18 (2019). [**[Highlight News](https://www.journals.elsevier.com/artificial-intelligence/news/dont-be-taken-for-a-ride-ai-helps-spot-ridesharing-cheats)**]
 
