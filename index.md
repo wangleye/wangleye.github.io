@@ -66,8 +66,6 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 - D. Chai, **L. Wang**, K. Chen, Q. Yang, “Secure Federated Matrix Factorization”. IEEE Intelligent Systems, 36(5): 11-20 (2021).
 
-- D. Chai, **L. Wang**, K. Chen, Q. Yang, “Efficient Federated Matrix Factorization against Inference Attacks”. ACM Trans. Intelligent Systems and Technology, accepted (2021).
-
 - X. Han, H. Huang, **L. Wang**, “F-PAD: Private Attribute Disclosure Risk Estimation in Online Social Networks”. IEEE Trans. Dependable and Secure Computing, 16(6): 1054-1069 (2019).
 
 ### Supervised Students
