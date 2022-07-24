@@ -34,11 +34,11 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 - **L. Wang**, D. Yang, X. Han, T. Wang, D. Zhang, X. Ma. “Location Privacy-Preserving Task Allocation in Mobile Crowdsensing with Differential Geo-Obfuscation”. WWW 2017: 627-636.
 
-- **L. Wang**, D. Zhang, Y. Wang, C. Chen, X. Han, A. Mhamed. “Sparse Mobile Crowdsensing: Challenges and Opportunities”. IEEE Comm. Mag. 54(7): 161-167 (2016). [**Top 10 most cited paper of crowdsensing 2015-2020 by Microsoft Academic**]
+- **L. Wang**, D. Zhang, Y. Wang, C. Chen, X. Han, A. Mhamed. “Sparse Mobile Crowdsensing: Challenges and Opportunities”. IEEE Comm. Mag. 54(7): 161-167 (2016). [**Top 10 cited paper of crowdsensing 2015-2020 by Microsoft Academic**]
 
 - **L. Wang**, D. Zhang, D. Yang, B. Y. Lim, X. Ma. “Differential Location Privacy in Sparse Mobile Crowdsensing”. ICDM 2016: 1257-1262.
 
-- **L. Wang**, D. Zhang, A. Pathak, C. Chen, H. Xiong, D. Yang, Y. Wang. “CCS-TA: Quality-Guaranteed Online Task Allocation in Compressive Crowdsensing”. UbiComp 2015: 683-694. [**Top 10 most cited papers of crowdsensing 2015-2020 by Microsoft Academic**]
+- **L. Wang**, D. Zhang, A. Pathak, C. Chen, H. Xiong, D. Yang, Y. Wang. “CCS-TA: Quality-Guaranteed Online Task Allocation in Compressive Crowdsensing”. UbiComp 2015: 683-694. [**Top 10 cited papers of crowdsensing 2015-2020 by Microsoft Academic**]
 
 ### Spatio-temporal AI
 
