@@ -30,11 +30,11 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 - **L. Wang**, D. Zhang, D. Yang, B. Y. Lim, X. Han, X. Ma, “Sparse Mobile Crowdsensing with Differential and Distortion Location Privacy”. IEEE Trans. Information Forensics and Security, 15(1): 2735-2749 (2020).
 
-- **L. Wang**, D. Yang, X. Han, T. Wang, D. Zhang, X. Ma. “Location Privacy-Preserving Task Allocation in Mobile Crowdsensing with Differential Geo-Obfuscation”. WWW 2017: 627-636. [**Google Scholar citations over 100**]
+- **L. Wang**, D. Yang, X. Han, T. Wang, D. Zhang, X. Ma. “Location Privacy-Preserving Task Allocation in Mobile Crowdsensing with Differential Geo-Obfuscation”. WWW 2017: 627-636. [**100+ Google Scholar citations**]
 
-- **L. Wang**, D. Zhang, Y. Wang, C. Chen, X. Han, A. Mhamed. “Sparse Mobile Crowdsensing: Challenges and Opportunities”. IEEE Comm. Mag. 54(7): 161-167 (2016). [**Google Scholar citations over 200**]
+- **L. Wang**, D. Zhang, Y. Wang, C. Chen, X. Han, A. Mhamed. “Sparse Mobile Crowdsensing: Challenges and Opportunities”. IEEE Comm. Mag. 54(7): 161-167 (2016). [**200+ Google Scholar citations**]
 
-- **L. Wang**, D. Zhang, A. Pathak, C. Chen, H. Xiong, D. Yang, Y. Wang. “CCS-TA: Quality-Guaranteed Online Task Allocation in Compressive Crowdsensing”. UbiComp 2015: 683-694. [**Google Scholar citations over 150**]
+- **L. Wang**, D. Zhang, A. Pathak, C. Chen, H. Xiong, D. Yang, Y. Wang. “CCS-TA: Quality-Guaranteed Online Task Allocation in Compressive Crowdsensing”. UbiComp 2015: 683-694. [**150+ Google Scholar citations**]
 
 ### Spatio-temporal AI
 
@@ -44,11 +44,11 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 - **L. Wang**, X. Geng, X. Ma, F. Liu, Q. Yang. “Cross-City Transfer Learning for Deep Spatiotemporal Prediction”. IJCAI 2019: 1893-1899.
 
-- X. Geng, Y. Li, **L. Wang**, L. Zhang, J. Ye, Y. Liu, Q. Yang. “Spatiotemporal Multi-Graph Convolution Network for Ride-hailing Demand Forecasting”. AAAI 2019: 3656-3663.[**[Most Influential Papers in AAAI 2019](https://www.paperdigest.org/2021/02/most-influential-aaai-papers/)**, ranked 4th in 1,150 accepted papers; **Google Scholar citations over 400**]
+- X. Geng, Y. Li, **L. Wang**, L. Zhang, J. Ye, Y. Liu, Q. Yang. “Spatiotemporal Multi-Graph Convolution Network for Ride-hailing Demand Forecasting”. AAAI 2019: 3656-3663.[**[Most Influential Papers in AAAI 2019](https://www.paperdigest.org/2021/02/most-influential-aaai-papers/)**, ranked 4th in 1,150 accepted papers; **400+ Google Scholar citations**]
 
 - **L. Wang**, B. Guo, Q. Yang, “Smart City Development with Urban Transfer Learning”. IEEE Computer 51(12): 32-41 (2018).
 
-- D. Chai, **L. Wang**, Q. Yang. “Bike Flow Prediction with Multi-Graph Convolutional Networks”. SIGSPATIAL/GIS 2018: 397-400. [**Top 1 cited paper in GIS 2018**; **Google Scholar citations over 150**]
+- D. Chai, **L. Wang**, Q. Yang. “Bike Flow Prediction with Multi-Graph Convolutional Networks”. SIGSPATIAL/GIS 2018: 397-400. [**Top 1 cited paper in GIS 2018**; **150+ Google Scholar citations**]
 
 ### Privacy & Federated Learning
 
@@ -60,7 +60,7 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 - X. Han, **L. Wang**, W. Fan, “Hidden Is Safe? Location Protection against Machine-Learning Prediction Attacks in Social Networks”. MIS Quarterly, 45(2) (2021).
 
-- D. Chai, **L. Wang**, K. Chen, Q. Yang, “Secure Federated Matrix Factorization”. IEEE Intelligent Systems, 36(5): 11-20 (2021). [**Google Scholar citations over 100**]
+- D. Chai, **L. Wang**, K. Chen, Q. Yang, “Secure Federated Matrix Factorization”. IEEE Intelligent Systems, 36(5): 11-20 (2021). [**100+ Google Scholar citations**]
 
 - X. Han, H. Huang, **L. Wang**, “F-PAD: Private Attribute Disclosure Risk Estimation in Online Social Networks”. IEEE Trans. Dependable and Secure Computing, 16(6): 1054-1069 (2019).
 
