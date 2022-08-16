@@ -52,7 +52,7 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 ### Privacy & Federated Learning
 
-- J. Zhu, **L. Wang**, X. Han, "Safety and Performance, Why not Both? Bi-Objective Optimized Model Compression toward AI Software Deployment". ASE 2022.
+- J. Zhu, **L. Wang**, X. Han, "Safety and Performance, Why not Both? Bi-Objective Optimized Model Compression toward AI Software Deployment". ASE 2022. [[Arxiv](https://arxiv.org/abs/2208.05969.pdf)]
 
 - D. Chai, **L. Wang**, J. Zhang, L. Yang, S. Cai, K. Chen, & Q. Yang, "Practical Lossless Federated Singular Vector Decomposition Over Billion-Scale Data". KDD 2022, research track. [[Arxiv](https://arxiv.org/pdf/2105.08925v2.pdf)]
 
