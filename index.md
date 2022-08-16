@@ -10,7 +10,7 @@ Email: leyewang@pku.edu.cn
 
 Urban Computing ToolBox is a package providing spatial-temporal predicting models. It contains both conventional models and state-of-art deep learning models. Besides, benchmark datasets built from open data are included. More details in:
 
-- **L. Wang**, D. Chai, X. Liu, L. Chen, & K. Chen. "Exploring the Generalizability of Spatio-Temporal Traffic Prediction: Meta-Modeling and an Analytic Framework". IEEE Trans. Knowledge and Data Engineering, early access (2021). [[IEEE](https://ieeexplore.ieee.org/document/9627543)][[Arxiv](https://arxiv.org/pdf/2009.09379.pdf)] 
+- **L. Wang**, D. Chai, X. Liu, L. Chen, & K. Chen. "Exploring the Generalizability of Spatio-Temporal Traffic Prediction: Meta-Modeling and an Analytic Framework". IEEE Trans. Knowledge and Data Engineering, early access (2021). [[IEEE](https://ieeexplore.ieee.org/document/9627543)][[Arxiv](https://arxiv.org/abs/2009.09379)] 
 
 - 陈李越，柴迪，**王乐业**. "UCTB: 时空人群流动预测工具箱". 计算机科学与探索 (2021). [[Link](http://fcst.ceaj.org/CN/abstract/abstract2577.shtml)]
 
@@ -18,7 +18,7 @@ Urban Computing ToolBox is a package providing spatial-temporal predicting model
 
 FedEval is a federated learning benchmark system with a comprehensive evaluation model, ACTPR, inside. The ACTPR model is the core of our benchmarking system. It defines five evaluation metrics for the FL systems: Accuracy, Communication, Time consumption, Privacy and Robustness.
 
-- D. Chai, **L. Wang**, K. Chen, & Q. Yang. "FedEval: A Benchmark System with a Comprehensive Evaluation Model for Federated Learning". arXiv preprint arXiv:2011.09655v2 (2020). [[Arxiv](https://arxiv.org/pdf/2011.09655.pdf)]
+- D. Chai, **L. Wang**, K. Chen, & Q. Yang. "FedEval: A Benchmark System with a Comprehensive Evaluation Model for Federated Learning". arXiv preprint arXiv:2011.09655v2 (2020). [[Arxiv](https://arxiv.org/abs/2011.09655)]
 
 ## Selected Publications
 
@@ -38,7 +38,7 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 ### Spatio-temporal AI
 
-- **L. Wang**, D. Chai, X. Liu, L. Chen, & K. Chen. "Exploring the Generalizability of Spatio-Temporal Traffic Prediction: Meta-Modeling and an Analytic Framework". IEEE Trans. Knowledge and Data Engineering, early access (2021). [[IEEE](https://ieeexplore.ieee.org/document/9627543)][[Arxiv](https://arxiv.org/pdf/2009.09379.pdf)] 
+- **L. Wang**, D. Chai, X. Liu, L. Chen, & K. Chen. "Exploring the Generalizability of Spatio-Temporal Traffic Prediction: Meta-Modeling and an Analytic Framework". IEEE Trans. Knowledge and Data Engineering, early access (2021). [[IEEE](https://ieeexplore.ieee.org/document/9627543)][[Arxiv](https://arxiv.org/abs/2009.09379)] 
 
 - **L. Wang**, X. Geng, X. Ma, D. Zhang, Q. Yang, “Ridesharing Car Detection by Transfer Learning”. Artificial Intelligence, 273: 1-18 (2019). [**[Highlight News](https://www.journals.elsevier.com/artificial-intelligence/news/dont-be-taken-for-a-ride-ai-helps-spot-ridesharing-cheats)**]
 
@@ -52,11 +52,11 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 ### Privacy & Federated Learning
 
-- J. Zhu, **L. Wang**, X. Han, "Safety and Performance, Why not Both? Bi-Objective Optimized Model Compression toward AI Software Deployment". ASE 2022. [[Arxiv](https://arxiv.org/abs/2208.05969.pdf)]
+- J. Zhu, **L. Wang**, X. Han, "Safety and Performance, Why not Both? Bi-Objective Optimized Model Compression toward AI Software Deployment". ASE 2022. [[Arxiv](https://arxiv.org/abs/2208.05969)]
 
-- D. Chai, **L. Wang**, J. Zhang, L. Yang, S. Cai, K. Chen, & Q. Yang, "Practical Lossless Federated Singular Vector Decomposition Over Billion-Scale Data". KDD 2022, research track. [[Arxiv](https://arxiv.org/pdf/2105.08925v2.pdf)]
+- D. Chai, **L. Wang**, J. Zhang, L. Yang, S. Cai, K. Chen, & Q. Yang, "Practical Lossless Federated Singular Vector Decomposition Over Billion-Scale Data". KDD 2022, research track. [[Arxiv](https://arxiv.org/abs/2105.08925v2)]
 
-- D. Chai, **L. Wang**, K. Chen, & Q. Yang, "FedEval: A Benchmark System with a Comprehensive Evaluation Model for Federated Learning". arXiv preprint arXiv:2011.09655v2 (2020). [[Arxiv](https://arxiv.org/pdf/2011.09655.pdf)]
+- D. Chai, **L. Wang**, K. Chen, & Q. Yang, "FedEval: A Benchmark System with a Comprehensive Evaluation Model for Federated Learning". arXiv preprint arXiv:2011.09655v2 (2020). [[Arxiv](https://arxiv.org/abs/2011.09655)]
 
 - X. Han, **L. Wang**, W. Fan, “Hidden Is Safe? Location Protection against Machine-Learning Prediction Attacks in Social Networks”. MIS Quarterly, 45(2) (2021).
 
