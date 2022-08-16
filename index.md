@@ -54,7 +54,7 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 - J. Zhu, **L. Wang**, X. Han, "Safety and Performance, Why not Both? Bi-Objective Optimized Model Compression toward AI Software Deployment". ASE 2022. [[Arxiv](https://arxiv.org/abs/2208.05969)]
 
-- D. Chai, **L. Wang**, J. Zhang, L. Yang, S. Cai, K. Chen, & Q. Yang, "Practical Lossless Federated Singular Vector Decomposition Over Billion-Scale Data". KDD 2022, research track. [[Arxiv](https://arxiv.org/abs/2105.08925v2)]
+- D. Chai, **L. Wang**, J. Zhang, L. Yang, S. Cai, K. Chen, & Q. Yang, "Practical Lossless Federated Singular Vector Decomposition Over Billion-Scale Data". KDD 2022, research track. [[Arxiv](https://arxiv.org/abs/2105.08925)]
 
 - D. Chai, **L. Wang**, K. Chen, & Q. Yang, "FedEval: A Benchmark System with a Comprehensive Evaluation Model for Federated Learning". arXiv preprint arXiv:2011.09655v2 (2020). [[Arxiv](https://arxiv.org/abs/2011.09655)]
 
