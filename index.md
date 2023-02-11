@@ -42,17 +42,21 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 ### Conference
 
-- D. Chai, **L. Wang**, J. Zhang, L. Yang, S. Cai, K. Chen, & Q. Yang, "Practical Lossless Federated Singular Vector Decomposition Over Billion-Scale Data". KDD 2022, research track. [[Arxiv](https://arxiv.org/abs/2105.08925)]
+- C. Huang, **L. Wang**, X. Han, "Vertical Federated Knowledge Transfer via Representation Distillation for Healthcare Collaboration Networks". WWW 2023, Web4Good track.
+
+- R. Ding, F. Rong, X. Han, **L. Wang**, "Cross-center Early Sepsis Recognition by Medical Knowledge Guided Collaborative Learning for Data-scarce Hospitals". WWW 2023, Web4Good track.
+
+- D. Chai, **L. Wang**, J. Zhang, L. Yang, S. Cai, K. Chen,  Q. Yang, "Practical Lossless Federated Singular Vector Decomposition Over Billion-Scale Data". KDD 2022, research track. [[Arxiv](https://arxiv.org/abs/2105.08925)]
 
 - J. Zhu, **L. Wang**, X. Han, "Safety and Performance, Why not Both? Bi-Objective Optimized Model Compression toward AI Software Deployment". ASE 2022. [[Arxiv](https://arxiv.org/abs/2208.05969)]
 
 - **L. Wang**, X. Geng, X. Ma, F. Liu, Q. Yang. “Cross-City Transfer Learning for Deep Spatiotemporal Prediction”. IJCAI 2019: 1893-1899.
 
-- X. Geng, Y. Li, **L. Wang**, L. Zhang, J. Ye, Y. Liu, Q. Yang. “Spatiotemporal Multi-Graph Convolution Network for Ride-hailing Demand Forecasting”. AAAI 2019: 3656-3663.[**[Most Influential Papers in AAAI 2019](https://www.paperdigest.org/2021/02/most-influential-aaai-papers/)**, ranked 4th in 1,150 accepted papers; **400+ Google Scholar citations**]
+- X. Geng, Y. Li, **L. Wang**, L. Zhang, J. Ye, Y. Liu, Q. Yang. “Spatiotemporal Multi-Graph Convolution Network for Ride-hailing Demand Forecasting”. AAAI 2019: 3656-3663.[**[Most Influential Papers in AAAI 2019](https://www.paperdigest.org/2021/02/most-influential-aaai-papers/)**, ranked 4th in 1,150 accepted papers; **500+ Google Scholar citations**]
 
-- D. Chai, **L. Wang**, Q. Yang. “Bike Flow Prediction with Multi-Graph Convolutional Networks”. SIGSPATIAL/GIS 2018: 397-400. [**Top 1 cited paper in GIS 2018**; **150+ Google Scholar citations**]
+- D. Chai, **L. Wang**, Q. Yang. “Bike Flow Prediction with Multi-Graph Convolutional Networks”. SIGSPATIAL/GIS 2018: 397-400. [**Top 1 cited paper in GIS 2018**; **200+ Google Scholar citations**]
 
-- **L. Wang**, D. Yang, X. Han, T. Wang, D. Zhang, X. Ma. “Location Privacy-Preserving Task Allocation in Mobile Crowdsensing with Differential Geo-Obfuscation”. WWW 2017: 627-636. [**100+ Google Scholar citations**]
+- **L. Wang**, D. Yang, X. Han, T. Wang, D. Zhang, X. Ma. “Location Privacy-Preserving Task Allocation in Mobile Crowdsensing with Differential Geo-Obfuscation”. WWW 2017: 627-636. [**150+ Google Scholar citations**]
 
 - **L. Wang**, D. Zhang, A. Pathak, C. Chen, H. Xiong, D. Yang, Y. Wang. “CCS-TA: Quality-Guaranteed Online Task Allocation in Compressive Crowdsensing”. UbiComp 2015: 683-694. [**150+ Google Scholar citations**]
 
