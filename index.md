@@ -36,9 +36,9 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 - **L. Wang**, D. Zhang, D. Yang, B. Y. Lim, X. Han, X. Ma, “[Sparse Mobile Crowdsensing with Differential and Distortion Location Privacy](https://ieeexplore.ieee.org/document/9007517)”. IEEE Trans. Information Forensics and Security, 15(1): 2735-2749 (2020).
 
-- D. Chai, **L. Wang**, K. Chen, Q. Yang, “[Secure Federated Matrix Factorization](https://ieeexplore.ieee.org/document/9162459)”. IEEE Intelligent Systems, 36(5): 11-20 (2021). [**100+ Google Scholar citations**]
+- D. Chai, **L. Wang**, K. Chen, Q. Yang, “[Secure Federated Matrix Factorization](https://ieeexplore.ieee.org/document/9162459)”. IEEE Intelligent Systems, 36(5): 11-20 (2021). [[**150+ citations**](https://scholar.google.com/citations?view_op=view_citation&hl=en&citation_for_view=o2I4sL8AAAAJ:_Ybze24A_UAC)]
 
-- **L. Wang**, D. Zhang, Y. Wang, C. Chen, X. Han, A. Mhamed. “[Sparse Mobile Crowdsensing: Challenges and Opportunities](https://ieeexplore.ieee.org/document/7509395)”. IEEE Comm. Mag. 54(7): 161-167 (2016). [**200+ Google Scholar citations**]
+- **L. Wang**, D. Zhang, Y. Wang, C. Chen, X. Han, A. Mhamed. “[Sparse Mobile Crowdsensing: Challenges and Opportunities](https://ieeexplore.ieee.org/document/7509395)”. IEEE Comm. Mag. 54(7): 161-167 (2016). [[**200+ Google Scholar citations**](https://scholar.google.com/citations?view_op=view_citation&hl=en&citation_for_view=o2I4sL8AAAAJ:UxriW0iASnsC)]
 
 ### Conference
 
