@@ -26,7 +26,9 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 ### Journal
 
-- **L. Wang**, D. Chai, X. Liu, L. Chen, & K. Chen. "Exploring the Generalizability of Spatio-Temporal Traffic Prediction: Meta-Modeling and an Analytic Framework". IEEE Trans. Knowledge and Data Engineering, early access (2021). [[IEEE](https://ieeexplore.ieee.org/document/9627543)][[Arxiv](https://arxiv.org/abs/2009.09379)] 
+- X. Han, **L. Wang**, W. Fan. "[Cost-effective social media influencer marketing](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2022.1246)". INFORMS Journal on Computing, early access (2022).
+
+- **L. Wang**, D. Chai, X. Liu, L. Chen, K. Chen. "Exploring the Generalizability of Spatio-Temporal Traffic Prediction: Meta-Modeling and an Analytic Framework". IEEE Trans. Knowledge and Data Engineering, early access (2021). [[IEEE](https://ieeexplore.ieee.org/document/9627543)][[Arxiv](https://arxiv.org/abs/2009.09379)] 
 
 - X. Han, **L. Wang**, W. Fan, “Hidden Is Safe? Location Protection against Machine-Learning Prediction Attacks in Social Networks”. MIS Quarterly, 45(2) (2021).
 
