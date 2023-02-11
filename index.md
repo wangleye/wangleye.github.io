@@ -54,7 +54,7 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 - X. Geng, Y. Li, **L. Wang**, L. Zhang, J. Ye, Y. Liu, Q. Yang. “[Spatiotemporal Multi-Graph Convolution Network for Ride-hailing Demand Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/4247)”. AAAI 2019: 3656-3663.[**[Most Influential Papers in AAAI 2019](https://www.paperdigest.org/2021/02/most-influential-aaai-papers/)**; **500+ Google Scholar citations**]
 
-- D. Chai, **L. Wang**, Q. Yang. “[Bike Flow Prediction with Multi-Graph Convolutional Networks](https://dl.acm.org/doi/10.1145/3274895.3274896)”. SIGSPATIAL/GIS 2018: 397-400. [**Top 1 cited paper in GIS 2018**; **200+ Google Scholar citations**]
+- D. Chai, **L. Wang**, Q. Yang. “[Bike Flow Prediction with Multi-Graph Convolutional Networks](https://dl.acm.org/doi/10.1145/3274895.3274896)”. SIGSPATIAL/GIS 2018: 397-400. [**200+ Google Scholar citations**]
 
 - **L. Wang**, D. Yang, X. Han, T. Wang, D. Zhang, X. Ma. “[Location Privacy-Preserving Task Allocation in Mobile Crowdsensing with Differential Geo-Obfuscation](https://dl.acm.org/doi/abs/10.1145/3038912.3052696)”. WWW 2017: 627-636. [**150+ Google Scholar citations**]
 
