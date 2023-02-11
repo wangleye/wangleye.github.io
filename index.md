@@ -58,9 +58,9 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 - D. Chai, **L. Wang**, Q. Yang. “[Bike Flow Prediction with Multi-Graph Convolutional Networks](https://dl.acm.org/doi/10.1145/3274895.3274896)”. SIGSPATIAL/GIS 2018: 397-400. [[**200+ citations**](https://scholar.google.com/citations?view_op=view_citation&hl=en&citation_for_view=o2I4sL8AAAAJ:LjlpjdlvIbIC)]
 
-- **L. Wang**, D. Yang, X. Han, T. Wang, D. Zhang, X. Ma. “[Location Privacy-Preserving Task Allocation in Mobile Crowdsensing with Differential Geo-Obfuscation](https://dl.acm.org/doi/abs/10.1145/3038912.3052696)”. WWW 2017: 627-636. [**150+ citations**]
+- **L. Wang**, D. Yang, X. Han, T. Wang, D. Zhang, X. Ma. “[Location Privacy-Preserving Task Allocation in Mobile Crowdsensing with Differential Geo-Obfuscation](https://dl.acm.org/doi/abs/10.1145/3038912.3052696)”. WWW 2017: 627-636. [[**150+ citations**](https://scholar.google.com/citations?view_op=view_citation&hl=en&citation_for_view=o2I4sL8AAAAJ:bnK-pcrLprsC)]
 
-- **L. Wang**, D. Zhang, A. Pathak, C. Chen, H. Xiong, D. Yang, Y. Wang. “[CCS-TA: Quality-Guaranteed Online Task Allocation in Compressive Crowdsensing](https://dl.acm.org/doi/10.1145/2750858.2807513)”. UbiComp 2015: 683-694. [**150+ citations**]
+- **L. Wang**, D. Zhang, A. Pathak, C. Chen, H. Xiong, D. Yang, Y. Wang. “[CCS-TA: Quality-Guaranteed Online Task Allocation in Compressive Crowdsensing](https://dl.acm.org/doi/10.1145/2750858.2807513)”. UbiComp 2015: 683-694. [[**150+ citations**](https://scholar.google.com/citations?view_op=view_citation&hl=en&citation_for_view=o2I4sL8AAAAJ:rO6llkc54NcC)]
 
 
 ### Supervised Students
