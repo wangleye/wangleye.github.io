@@ -52,15 +52,15 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 - J. Zhu, **L. Wang**, X. Han, "[Safety and Performance, Why not Both? Bi-Objective Optimized Model Compression toward AI Software Deployment](https://dl.acm.org/doi/10.1145/3551349.3556906)". ASE 2022.
 
-- **L. Wang**, X. Geng, X. Ma, F. Liu, Q. Yang. “[Cross-City Transfer Learning for Deep Spatiotemporal Prediction](https://www.ijcai.org/Proceedings/2019/0262.pdf)”. IJCAI 2019: 1893-1899. [[**100+ citations**](https://scholar.google.com/citations?view_op=view_citation&hl=en&citation_for_view=o2I4sL8AAAAJ:PELIpwtuRlgC)]
+- **L. Wang**, X. Geng, X. Ma, F. Liu, Q. Yang. “[Cross-City Transfer Learning for Deep Spatiotemporal Prediction](https://www.ijcai.org/Proceedings/2019/0262.pdf)”. IJCAI 2019. [[**100+ citations**](https://scholar.google.com/citations?view_op=view_citation&hl=en&citation_for_view=o2I4sL8AAAAJ:PELIpwtuRlgC)]
 
-- X. Geng, Y. Li, **L. Wang**, L. Zhang, J. Ye, Y. Liu, Q. Yang. “[Spatiotemporal Multi-Graph Convolution Network for Ride-hailing Demand Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/4247)”. AAAI 2019: 3656-3663.[[**500+ citations**](https://scholar.google.com/citations?view_op=view_citation&hl=en&citation_for_view=o2I4sL8AAAAJ:hkOj_22Ku90C)][[Most Influential Papers in AAAI 2019](https://www.paperdigest.org/2021/02/most-influential-aaai-papers/)]
+- X. Geng, Y. Li, **L. Wang**, L. Zhang, J. Ye, Y. Liu, Q. Yang. “[Spatiotemporal Multi-Graph Convolution Network for Ride-hailing Demand Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/4247)”. AAAI 2019.[[**500+ citations**](https://scholar.google.com/citations?view_op=view_citation&hl=en&citation_for_view=o2I4sL8AAAAJ:hkOj_22Ku90C)][[Most Influential Papers in AAAI 2019](https://www.paperdigest.org/2021/02/most-influential-aaai-papers/)]
 
 - D. Chai, **L. Wang**, Q. Yang. “[Bike Flow Prediction with Multi-Graph Convolutional Networks](https://dl.acm.org/doi/10.1145/3274895.3274896)”. SIGSPATIAL/GIS 2018: 397-400. [[**200+ citations**](https://scholar.google.com/citations?view_op=view_citation&hl=en&citation_for_view=o2I4sL8AAAAJ:LjlpjdlvIbIC)]
 
-- **L. Wang**, D. Yang, X. Han, T. Wang, D. Zhang, X. Ma. “[Location Privacy-Preserving Task Allocation in Mobile Crowdsensing with Differential Geo-Obfuscation](https://dl.acm.org/doi/abs/10.1145/3038912.3052696)”. WWW 2017: 627-636. [[**150+ citations**](https://scholar.google.com/citations?view_op=view_citation&hl=en&citation_for_view=o2I4sL8AAAAJ:bnK-pcrLprsC)]
+- **L. Wang**, D. Yang, X. Han, T. Wang, D. Zhang, X. Ma. “[Location Privacy-Preserving Task Allocation in Mobile Crowdsensing with Differential Geo-Obfuscation](https://dl.acm.org/doi/abs/10.1145/3038912.3052696)”. WWW 2017. [[**150+ citations**](https://scholar.google.com/citations?view_op=view_citation&hl=en&citation_for_view=o2I4sL8AAAAJ:bnK-pcrLprsC)]
 
-- **L. Wang**, D. Zhang, A. Pathak, C. Chen, H. Xiong, D. Yang, Y. Wang. “[CCS-TA: Quality-Guaranteed Online Task Allocation in Compressive Crowdsensing](https://dl.acm.org/doi/10.1145/2750858.2807513)”. UbiComp 2015: 683-694. [[**150+ citations**](https://scholar.google.com/citations?view_op=view_citation&hl=en&citation_for_view=o2I4sL8AAAAJ:rO6llkc54NcC)]
+- **L. Wang**, D. Zhang, A. Pathak, C. Chen, H. Xiong, D. Yang, Y. Wang. “[CCS-TA: Quality-Guaranteed Online Task Allocation in Compressive Crowdsensing](https://dl.acm.org/doi/10.1145/2750858.2807513)”. UbiComp 2015. [[**150+ citations**](https://scholar.google.com/citations?view_op=view_citation&hl=en&citation_for_view=o2I4sL8AAAAJ:rO6llkc54NcC)]
 
 
 ### Supervised Students
