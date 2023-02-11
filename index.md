@@ -38,8 +38,6 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 - D. Chai, **L. Wang**, K. Chen, Q. Yang, “Secure Federated Matrix Factorization”. IEEE Intelligent Systems, 36(5): 11-20 (2021). [**100+ Google Scholar citations**]
 
-- **L. Wang**, X. Geng, X. Ma, D. Zhang, Q. Yang, “Ridesharing Car Detection by Transfer Learning”. Artificial Intelligence, 273: 1-18 (2019). [**[Highlight News](https://www.journals.elsevier.com/artificial-intelligence/news/dont-be-taken-for-a-ride-ai-helps-spot-ridesharing-cheats)**]
-
 - **L. Wang**, D. Zhang, Y. Wang, C. Chen, X. Han, A. Mhamed. “Sparse Mobile Crowdsensing: Challenges and Opportunities”. IEEE Comm. Mag. 54(7): 161-167 (2016). [**200+ Google Scholar citations**]
 
 ### Conference
