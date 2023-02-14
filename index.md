@@ -42,7 +42,7 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 ### Conference
 
-- C. Huang, **L. Wang**, X. Han, "Vertical Federated Knowledge Transfer via Representation Distillation for Healthcare Collaboration Networks". WWW 2023, Web4Good track.
+- C. Huang, **L. Wang**, X. Han, "[Vertical Federated Knowledge Transfer via Representation Distillation for Healthcare Collaboration Networks](https://arxiv.org/abs/2302.05675)". WWW 2023, Web4Good track.
 
 - R. Ding, F. Rong, X. Han, **L. Wang**, "Cross-center Early Sepsis Recognition by Medical Knowledge Guided Collaborative Learning for Data-scarce Hospitals". WWW 2023, Web4Good track.
 
