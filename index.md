@@ -26,7 +26,7 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 ### Journal
 
-- X. Han, **L. Wang**, W. Fan. "[Cost-effective social media influencer marketing](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2022.1246)". INFORMS Journal on Computing, early access (2022).
+- (new) X. Han, **L. Wang**, W. Fan. "[Cost-effective social media influencer marketing](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2022.1246)". INFORMS Journal on Computing, early access (2022).
 
 - **L. Wang**, D. Chai, X. Liu, L. Chen, K. Chen. "[Exploring the Generalizability of Spatio-Temporal Traffic Prediction: Meta-Modeling and an Analytic Framework](https://ieeexplore.ieee.org/document/9627543)". IEEE Trans. Knowledge and Data Engineering, early access (2021).
 
@@ -42,11 +42,11 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 ### Conference
 
-- C. Huang, **L. Wang**, X. Han, "[Vertical Federated Knowledge Transfer via Representation Distillation for Healthcare Collaboration Networks](https://arxiv.org/abs/2302.05675)". WWW 2023, Web4Good track.
+- (new) C. Huang, **L. Wang**, X. Han, "[Vertical Federated Knowledge Transfer via Representation Distillation for Healthcare Collaboration Networks](https://arxiv.org/abs/2302.05675)". WWW 2023, Web4Good track.
 
-- R. Ding, F. Rong, X. Han, **L. Wang**, "[Cross-center Early Sepsis Recognition by Medical Knowledge Guided Collaborative Learning for Data-scarce Hospitals](https://arxiv.org/abs/2302.05702)". WWW 2023, Web4Good track.
+- (new) R. Ding, F. Rong, X. Han, **L. Wang**, "[Cross-center Early Sepsis Recognition by Medical Knowledge Guided Collaborative Learning for Data-scarce Hospitals](https://arxiv.org/abs/2302.05702)". WWW 2023, Web4Good track.
 
-- J. Zhu, H. Huang, B. Li, **L. Wang**, "[E-CRF: Embedded Conditional Random Field for Boundary-caused Class Weights Confusion in Semantic Segmentation](https://openreview.net/forum?id=g1GnnCI1OrC)". ICLR 2023.
+- (new) J. Zhu, H. Huang, B. Li, **L. Wang**, "[E-CRF: Embedded Conditional Random Field for Boundary-caused Class Weights Confusion in Semantic Segmentation](https://openreview.net/forum?id=g1GnnCI1OrC)". ICLR 2023.
 
 - D. Chai, **L. Wang**, J. Zhang, L. Yang, S. Cai, K. Chen,  Q. Yang, "[Practical Lossless Federated Singular Vector Decomposition Over Billion-Scale Data](https://dl.acm.org/doi/10.1145/3534678.3539402)". KDD 2022, research track.
 
