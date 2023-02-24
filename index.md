@@ -30,7 +30,7 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 - **L. Wang**, D. Chai, X. Liu, L. Chen, K. Chen. "[Exploring the Generalizability of Spatio-Temporal Traffic Prediction: Meta-Modeling and an Analytic Framework](https://ieeexplore.ieee.org/document/9627543)". IEEE Trans. Knowledge and Data Engineering, early access (2021).
 
-- X. Han, **L. Wang**, W. Fan, “[Hidden Is Safe? Location Protection against Machine-Learning Prediction Attacks in Social Networks](https://misq.umn.edu/is-hidden-safe-location-protection-against-machine-learning-prediction-attacks-in-social-networks)”. MIS Quarterly, 45(2) (2021).
+- X. Han, **L. Wang**, W. Fan, “[Is Hidden Safe? Location Protection against Machine-Learning Prediction Attacks in Social Networks](https://misq.umn.edu/is-hidden-safe-location-protection-against-machine-learning-prediction-attacks-in-social-networks)”. MIS Quarterly, 45(2) (2021).
 
 - **L. Wang**, D. Yang, X. Han, D. Zhang, X. Ma, “[Mobile Crowdsourcing Task Allocation with Differential-and-Distortion Geo-Obfuscation](https://ieeexplore.ieee.org/document/8695792)”. IEEE Trans. Dependable and Secure Computing, 18(2): 967-981 (2021).
 
