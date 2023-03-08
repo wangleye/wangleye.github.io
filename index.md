@@ -26,7 +26,7 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 ### Journal
 
-- **(new)** R. Ding, Y. Zhou, J. Xu, Y. Xie, Q. Liang, H. Ren, Y. Wang, Y. Chen, **L. Wang**, M. Huang, “[Cross-hospital Sepsis Early Detection via Semi-supervised Optimal Transport with Self-paced Ensemble](https://arxiv.org/abs/2106.10352)”. IEEE Journal of Biomedical and Health Informatics, accepted (2023).
+- **(new)** R. Ding, Y. Zhou, J. Xu, Y. Xie, Q. Liang, H. Ren, Y. Wang, Y. Chen, **L. Wang**, M. Huang, “[Cross-hospital Sepsis Early Detection via Semi-supervised Optimal Transport with Self-paced Ensemble](https://ieeexplore.ieee.org/document/10061196)”. IEEE Journal of Biomedical and Health Informatics, accepted (2023).
 
 - **(new)** X. Han, **L. Wang**, W. Fan. "[Cost-effective social media influencer marketing](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2022.1246)". INFORMS Journal on Computing, 35(1): 138-157 (2023).
 
