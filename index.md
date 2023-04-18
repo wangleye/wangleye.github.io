@@ -10,7 +10,7 @@ Email: leyewang@pku.edu.cn
 
 Urban Computing ToolBox is a package providing spatial-temporal predicting models. It contains both conventional models and state-of-art deep learning models. Besides, benchmark datasets built from open data are included. More details in:
 
-- **L. Wang**, D. Chai, X. Liu, L. Chen, & K. Chen. "Exploring the Generalizability of Spatio-Temporal Traffic Prediction: Meta-Modeling and an Analytic Framework". IEEE Trans. Knowledge and Data Engineering, early access (2021). [[IEEE](https://ieeexplore.ieee.org/document/9627543)][[Arxiv](https://arxiv.org/abs/2009.09379)] 
+- **L. Wang**, D. Chai, X. Liu, L. Chen, & K. Chen. "Exploring the Generalizability of Spatio-Temporal Traffic Prediction: Meta-Modeling and an Analytic Framework". IEEE Trans. Knowledge and Data Engineering (2023). [[IEEE](https://ieeexplore.ieee.org/document/9627543)][[Arxiv](https://arxiv.org/abs/2009.09379)] 
 
 - 陈李越，柴迪，**王乐业**. "UCTB: 时空人群流动预测工具箱". 计算机科学与探索 (2021). [[Link](http://fcst.ceaj.org/CN/abstract/abstract2577.shtml)]
 
