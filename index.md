@@ -50,9 +50,9 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 - **(new)** R. Ding, X. Han, **L. Wang**, "[A Unified Knowledge Graph Augmentation Service for Boosting Domain-specific NLP Tasks](https://arxiv.org/abs/2212.05251)". ACL Findings 2023.
 
-- C. Huang, **L. Wang**, X. Han, "[Vertical Federated Knowledge Transfer via Representation Distillation for Healthcare Collaboration Networks](https://arxiv.org/abs/2302.05675)". WWW 2023.
+- C. Huang, **L. Wang**, X. Han, "[Vertical Federated Knowledge Transfer via Representation Distillation for Healthcare Collaboration Networks](https://dl.acm.org/doi/10.1145/3543507.3583874)". WWW 2023.
 
-- R. Ding, F. Rong, X. Han, **L. Wang**, "[Cross-center Early Sepsis Recognition by Medical Knowledge Guided Collaborative Learning for Data-scarce Hospitals](https://arxiv.org/abs/2302.05702)". WWW 2023.
+- R. Ding, F. Rong, X. Han, **L. Wang**, "[Cross-center Early Sepsis Recognition by Medical Knowledge Guided Collaborative Learning for Data-scarce Hospitals](https://dl.acm.org/doi/10.1145/3543507.3583989)". WWW 2023.
 
 - J. Zhu, H. Huang, B. Li, **L. Wang**, "[E-CRF: Embedded Conditional Random Field for Boundary-caused Class Weights Confusion in Semantic Segmentation](https://openreview.net/forum?id=g1GnnCI1OrC)". ICLR 2023.
 
