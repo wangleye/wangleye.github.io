@@ -14,6 +14,8 @@ Urban Computing ToolBox is a package providing spatial-temporal predicting model
 
 - 陈李越，柴迪，**王乐业**. "UCTB: 时空人群流动预测工具箱". 计算机科学与探索 (2021). [[Link](http://fcst.ceaj.org/CN/abstract/abstract2577.shtml)]
 
+- L. Chen, D. Chai, **L. Wang**. "UCTB: An Urban Computing Tool Box for Spatiotemporal Crowd Flow Prediction", technical report. [[Arxiv](https://arxiv.org/abs/2306.04144)]
+
 ### [FedEval (Federated Learning Evaluation System)](https://github.com/Di-Chai/FedEval)
 
 FedEval is a federated learning benchmark system with a comprehensive evaluation model, ACTPR, inside. The ACTPR model is the core of our benchmarking system. It defines five evaluation metrics for the FL systems: Accuracy, Communication, Time consumption, Privacy and Robustness.
