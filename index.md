@@ -48,6 +48,8 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 ### Conference
 
+- **(new)** L. Chen, L. Wang, J. Xu, S. Chen, W. Wang, W. Zhao, Q. Li, **L. Wang**, “Knowledge-inspired Subdomain Adaptation for Cross-Domain Knowledge Transfer”. CIKM 2023.
+
 - **(new)** L. Chen, J. Fang, Z. Yu, Y. Tong, S. Cao, **L. Wang**, “[A Data-driven Region Generation Framework for Spatiotemporal Transportation Service Management](https://arxiv.org/abs/2306.02806)”. KDD 2023 (ADS).
 
 - **(new)** R. Ding, X. Han, **L. Wang**, "[A Unified Knowledge Graph Augmentation Service for Boosting Domain-specific NLP Tasks](https://arxiv.org/abs/2212.05251)". ACL Findings 2023.
