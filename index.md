@@ -10,17 +10,19 @@ Email: leyewang@pku.edu.cn
 
 Urban Computing ToolBox is a package providing spatial-temporal predicting models. It contains both conventional models and state-of-art deep learning models. Besides, benchmark datasets built from open data are included. More details in:
 
-- **L. Wang**, D. Chai, X. Liu, L. Chen, & K. Chen. "Exploring the Generalizability of Spatio-Temporal Traffic Prediction: Meta-Modeling and an Analytic Framework". IEEE Trans. Knowledge and Data Engineering (2023). [[IEEE](https://ieeexplore.ieee.org/document/9627543)][[Arxiv](https://arxiv.org/abs/2009.09379)] 
+- **L. Wang**, D. Chai, X. Liu, L. Chen, & K. Chen. "[Exploring the Generalizability of Spatio-Temporal Traffic Prediction: Meta-Modeling and an Analytic Framework](https://ieeexplore.ieee.org/document/9627543)". IEEE Trans. Knowledge and Data Engineering (2023).
 
-- 陈李越，柴迪，**王乐业**. "UCTB: 时空人群流动预测工具箱". 计算机科学与探索 (2021). [[Link](http://fcst.ceaj.org/CN/abstract/abstract2577.shtml)]
+- 陈李越，柴迪，**王乐业**. "[UCTB: 时空人群流动预测工具箱](http://fcst.ceaj.org/CN/abstract/abstract2577.shtml)". 计算机科学与探索 (2021).
 
-- L. Chen, D. Chai, **L. Wang**. "UCTB: An Urban Computing Tool Box for Spatiotemporal Crowd Flow Prediction", technical report. [[Arxiv](https://arxiv.org/abs/2306.04144)]
+- L. Chen, D. Chai, **L. Wang**. "[UCTB: An Urban Computing Tool Box for Spatiotemporal Crowd Flow Prediction](https://arxiv.org/abs/2306.04144)". arXiv (2023).
 
 ### [FedEval (Federated Learning Evaluation System)](https://github.com/Di-Chai/FedEval)
 
 FedEval is a federated learning benchmark system with a comprehensive evaluation model, ACTPR, inside. The ACTPR model is the core of our benchmarking system. It defines five evaluation metrics for the FL systems: Accuracy, Communication, Time consumption, Privacy and Robustness.
 
-- D. Chai, **L. Wang**, K. Chen, & Q. Yang. "FedEval: A Benchmark System with a Comprehensive Evaluation Model for Federated Learning". arXiv preprint arXiv:2011.09655v2 (2020). [[Arxiv](https://arxiv.org/abs/2011.09655)]
+- D. Chai, **L. Wang**, K. Chen, & Q. Yang. "[FedEval: A Benchmark System with a Comprehensive Evaluation Model for Federated Learning](https://arxiv.org/abs/2011.09655)". arXiv (2022).
+
+- D. Chai, **L. Wang**, L. Yang, J. Zhang, K. Chen, & Q. Yang. "[A Survey for Federated Learning Evaluations: Goals and Measures](https://arxiv.org/abs/2308.11841)". arXiv (2023).
 
 ## Selected Publications
 
