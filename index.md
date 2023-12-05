@@ -30,6 +30,8 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 ### Journal
 
+- **(new)** J. Zhu, **L. Wang**, X. Han, A. Liu, T. Xie. “Safety and Performance, Why Not Both? Bi-Objective Optimized Model Compression against Heterogeneous Attacks toward AI Software Deployment”. IEEE Trans. Software Engineering, accepted (2023).
+
 - **(new)** X. Han, Y. Yang, **L. Wang**, J. Wu, "[Privacy-Preserving Network Embedding against Private Link Inference Attacks](https://ieeexplore.ieee.org/document/10091141)". IEEE Trans. Dependable and Secure Computing, accepted (2023).
 
 - **(new)** R. Ding, Y. Zhou, J. Xu, Y. Xie, Q. Liang, H. Ren, Y. Wang, Y. Chen, **L. Wang**, M. Huang, "[Cross-hospital Sepsis Early Detection via Semi-supervised Optimal Transport with Self-paced Ensemble](https://ieeexplore.ieee.org/document/10061196)". IEEE Journal of Biomedical and Health Informatics, 27(6): 3049-3060 (2023).
@@ -52,7 +54,7 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 - **(new)** L. Chen, L. Wang, J. Xu, S. Chen, W. Wang, W. Zhao, Q. Li, **L. Wang**, “[Knowledge-inspired Subdomain Adaptation for Cross-Domain Knowledge Transfer](https://arxiv.org/abs/2308.09724)”. CIKM 2023.
 
-- **(new)** L. Chen, J. Fang, Z. Yu, Y. Tong, S. Cao, **L. Wang**, “[A Data-driven Region Generation Framework for Spatiotemporal Transportation Service Management](https://arxiv.org/abs/2306.02806)”. KDD 2023 (ADS).
+- **(new)** L. Chen, J. Fang, Z. Yu, Y. Tong, S. Cao, **L. Wang**, “[A Data-driven Region Generation Framework for Spatiotemporal Transportation Service Management](https://arxiv.org/abs/2306.02806)”. KDD 2023.
 
 - **(new)** R. Ding, X. Han, **L. Wang**, "[A Unified Knowledge Graph Augmentation Service for Boosting Domain-specific NLP Tasks](https://arxiv.org/abs/2212.05251)". ACL Findings 2023.
 
@@ -62,7 +64,7 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 - J. Zhu, H. Huang, B. Li, **L. Wang**, "[E-CRF: Embedded Conditional Random Field for Boundary-caused Class Weights Confusion in Semantic Segmentation](https://openreview.net/forum?id=g1GnnCI1OrC)". ICLR 2023.
 
-- D. Chai, **L. Wang**, J. Zhang, L. Yang, S. Cai, K. Chen,  Q. Yang, "[Practical Lossless Federated Singular Vector Decomposition Over Billion-Scale Data](https://dl.acm.org/doi/10.1145/3534678.3539402)". KDD 2022 (research).
+- D. Chai, **L. Wang**, J. Zhang, L. Yang, S. Cai, K. Chen,  Q. Yang, "[Practical Lossless Federated Singular Vector Decomposition Over Billion-Scale Data](https://dl.acm.org/doi/10.1145/3534678.3539402)". KDD 2022.
 
 - J. Zhu, **L. Wang**, X. Han, "[Safety and Performance, Why not Both? Bi-Objective Optimized Model Compression toward AI Software Deployment](https://dl.acm.org/doi/10.1145/3551349.3556906)". ASE 2022.
 
