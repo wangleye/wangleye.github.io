@@ -34,7 +34,7 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 - **(new)** X. Han, Y. Yang, **L. Wang**, J. Wu, "[Privacy-Preserving Network Embedding against Private Link Inference Attacks](https://ieeexplore.ieee.org/document/10091141)". IEEE Trans. Dependable and Secure Computing, accepted (2023).
 
-- **(new)** R. Ding, Y. Zhou, J. Xu, Y. Xie, Q. Liang, H. Ren, Y. Wang, Y. Chen, **L. Wang**, M. Huang, "[Cross-hospital Sepsis Early Detection via Semi-supervised Optimal Transport with Self-paced Ensemble](https://ieeexplore.ieee.org/document/10061196)". IEEE Journal of Biomedical and Health Informatics, 27(6): 3049-3060 (2023).
+- R. Ding, Y. Zhou, J. Xu, Y. Xie, Q. Liang, H. Ren, Y. Wang, Y. Chen, **L. Wang**, M. Huang, "[Cross-hospital Sepsis Early Detection via Semi-supervised Optimal Transport with Self-paced Ensemble](https://ieeexplore.ieee.org/document/10061196)". IEEE Journal of Biomedical and Health Informatics, 27(6): 3049-3060 (2023).
 
 - X. Han, **L. Wang**, W. Fan. "[Cost-effective social media influencer marketing](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2022.1246)". INFORMS Journal on Computing, 35(1): 138-157 (2023).
 
@@ -56,7 +56,7 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 - **(new)** L. Chen, J. Fang, Z. Yu, Y. Tong, S. Cao, **L. Wang**, “[A Data-driven Region Generation Framework for Spatiotemporal Transportation Service Management](https://arxiv.org/abs/2306.02806)”. KDD 2023.
 
-- **(new)** R. Ding, X. Han, **L. Wang**, "[A Unified Knowledge Graph Augmentation Service for Boosting Domain-specific NLP Tasks](https://arxiv.org/abs/2212.05251)". ACL Findings 2023.
+- R. Ding, X. Han, **L. Wang**, "[A Unified Knowledge Graph Augmentation Service for Boosting Domain-specific NLP Tasks](https://arxiv.org/abs/2212.05251)". ACL Findings 2023.
 
 - C. Huang, **L. Wang**, X. Han, "[Vertical Federated Knowledge Transfer via Representation Distillation for Healthcare Collaboration Networks](https://dl.acm.org/doi/10.1145/3543507.3583874)". WWW 2023.
 
