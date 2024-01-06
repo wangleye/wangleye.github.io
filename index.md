@@ -30,7 +30,7 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 ### Journal
 
-- **(new)** J. Zhu, **L. Wang**, X. Han, A. Liu, T. Xie. “Safety and Performance, Why Not Both? Bi-Objective Optimized Model Compression against Heterogeneous Attacks toward AI Software Deployment”. IEEE Trans. Software Engineering, accepted (2023).
+- **(new)** J. Zhu, **L. Wang**, X. Han, A. Liu, T. Xie. “[Safety and Performance, Why Not Both? Bi-Objective Optimized Model Compression against Heterogeneous Attacks toward AI Software Deployment](https://arxiv.org/abs/2401.00996)”. IEEE Trans. Software Engineering, accepted (2023).
 
 - **(new)** X. Han, Y. Yang, **L. Wang**, J. Wu, "[Privacy-Preserving Network Embedding against Private Link Inference Attacks](https://ieeexplore.ieee.org/document/10091141)". IEEE Trans. Dependable and Secure Computing, accepted (2023).
 
