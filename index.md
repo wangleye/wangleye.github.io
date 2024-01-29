@@ -89,4 +89,7 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 - Jie Zhu (PhD Student @ PKU, 2021-) 
 - Chongru Huang (PhD Student @ PKU, 2022-) 
 - Xuanqi Xu (PhD Student @ PKU, 2022-)
+- Jiangyi Fang (PhD Student @ PKU, 2023-)
+- Linian Wang (PhD Student @ PKU, 2023-)
+- Yucheng Wu (PhD Student @ PKU, 2023-)
 
