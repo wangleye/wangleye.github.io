@@ -87,7 +87,7 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 - [Ruiqing Ding](https://ruiqingding.github.io/) (PhD Student @ PKU, 2020-)
 - Guanghong Fan (PhD Student @ PKU, 2021-)
 - Jie Zhu (PhD Student @ PKU, 2021-) 
-- Chongru Huang (PhD Student @ PKU, 2022-) 
+- [Chongru Huang](https://chung-ju.github.io/) (PhD Student @ PKU, 2022-) 
 - Xuanqi Xu (PhD Student @ PKU, 2022-)
 - Jiangyi Fang (PhD Student @ PKU, 2023-)
 - Linian Wang (PhD Student @ PKU, 2023-)
