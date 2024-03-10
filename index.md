@@ -52,6 +52,8 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 ### Conference
 
+- **(new)** L. Chen, J. Fang, T. Liu, S. Cao, **L. Wang**, "A Unified Model for Spatio-Temporal Prediction Queries with Arbitrary Modifiable Areal Units". ICDE 2024.
+
 - **(new)** Y. Wu, **L. Wang**, X. Han, H. Ye, "[Graph Contrastive Learning with Cohesive Subgraph Awareness](https://arxiv.org/abs/2401.17580)". WWW 2024.
 
 - L. Chen, L. Wang, J. Xu, S. Chen, W. Wang, W. Zhao, Q. Li, **L. Wang**, "[Knowledge-inspired Subdomain Adaptation for Cross-Domain Knowledge Transfer](https://arxiv.org/abs/2308.09724)". CIKM 2023.
