@@ -30,9 +30,11 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 ### Journal
 
-- **(new)** J. Zhu, **L. Wang**, X. Han, A. Liu, T. Xie. “[Safety and Performance, Why Not Both? Bi-Objective Optimized Model Compression against Heterogeneous Attacks toward AI Software Deployment](https://arxiv.org/abs/2401.00996)”. IEEE Trans. Software Engineering, accepted (2023).
+- **(new)** D. Chai, **L. Wang**, L. Yang, J. Zhang, K. Chen, Q. Yang. "A Survey for Federated Learning Evaluations: Goals and Measures". IEEE Trans. Knowledge and Data Engineering, accepted (2024).
 
-- **(new)** X. Han, Y. Yang, **L. Wang**, J. Wu, "[Privacy-Preserving Network Embedding against Private Link Inference Attacks](https://ieeexplore.ieee.org/document/10091141)". IEEE Trans. Dependable and Secure Computing, accepted (2023).
+- **(new)** J. Zhu, **L. Wang**, X. Han, A. Liu, T. Xie. "[Safety and Performance, Why Not Both? Bi-Objective Optimized Model Compression against Heterogeneous Attacks toward AI Software Deployment](https://arxiv.org/abs/2401.00996)". IEEE Trans. Software Engineering, 50(3): 376-390 (2024).
+
+- **(new)** X. Han, Y. Yang, **L. Wang**, J. Wu, "[Privacy-Preserving Network Embedding against Private Link Inference Attacks](https://ieeexplore.ieee.org/document/10091141)". IEEE Trans. Dependable and Secure Computing, 21(2): 847-859 (2024).
 
 - R. Ding, Y. Zhou, J. Xu, Y. Xie, Q. Liang, H. Ren, Y. Wang, Y. Chen, **L. Wang**, M. Huang, "[Cross-hospital Sepsis Early Detection via Semi-supervised Optimal Transport with Self-paced Ensemble](https://ieeexplore.ieee.org/document/10061196)". IEEE Journal of Biomedical and Health Informatics, 27(6): 3049-3060 (2023).
 
