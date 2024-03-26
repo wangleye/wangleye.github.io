@@ -22,7 +22,7 @@ FedEval is a federated learning benchmark system with a comprehensive evaluation
 
 - D. Chai, **L. Wang**, K. Chen, & Q. Yang. "[FedEval: A Benchmark System with a Comprehensive Evaluation Model for Federated Learning](https://arxiv.org/abs/2011.09655)". arXiv (2022).
 
-- D. Chai, **L. Wang**, L. Yang, J. Zhang, K. Chen, & Q. Yang. "[A Survey for Federated Learning Evaluations: Goals and Measures](https://arxiv.org/abs/2308.11841)". arXiv (2023).
+- D. Chai, **L. Wang**, L. Yang, J. Zhang, K. Chen, Q. Yang. "[A Survey for Federated Learning Evaluations: Goals and Measures](https://arxiv.org/abs/2308.11841)". IEEE Trans. Knowledge and Data Engineering, accepted (2024).
 
 ## Selected Publications
 
