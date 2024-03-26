@@ -30,7 +30,7 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 ### Journal
 
-- **(new)** D. Chai, **L. Wang**, L. Yang, J. Zhang, K. Chen, Q. Yang. "A Survey for Federated Learning Evaluations: Goals and Measures". IEEE Trans. Knowledge and Data Engineering, accepted (2024).
+- **(new)** D. Chai, **L. Wang**, L. Yang, J. Zhang, K. Chen, Q. Yang. "[A Survey for Federated Learning Evaluations: Goals and Measures](https://arxiv.org/abs/2308.11841)". IEEE Trans. Knowledge and Data Engineering, accepted (2024).
 
 - **(new)** J. Zhu, **L. Wang**, X. Han, A. Liu, T. Xie. "[Safety and Performance, Why Not Both? Bi-Objective Optimized Model Compression against Heterogeneous Attacks toward AI Software Deployment](https://arxiv.org/abs/2401.00996)". IEEE Trans. Software Engineering, 50(3): 376-390 (2024).
 
