@@ -24,7 +24,7 @@ Based on UCTB, we have published several works on spatio-temporal prediction, in
 
 ### [FedEval (Federated Learning Evaluation System)](https://github.com/Di-Chai/FedEval)
 
-FedEval is a federated learning benchmark system with a comprehensive evaluation model, which defines three evaluation goals and the corresponding measures for the FL systems: utility, efficiency, and security & privacy.FedEval is a federated learning benchmark system with a comprehensive evaluation model, which defines three evaluation goals and the corresponding measures for the FL systems: utility, efficiency, and security & privacy.
+FedEval is a federated learning benchmark system with a comprehensive evaluation model, which defines three evaluation goals and the corresponding measures for the FL systems: utility, efficiency, and security & privacy.
 
 - D. Chai, **L. Wang**, K. Chen, & Q. Yang. "[FedEval: A Benchmark System with a Comprehensive Evaluation Model for Federated Learning](https://arxiv.org/abs/2011.09655)". arXiv (2022).
 
