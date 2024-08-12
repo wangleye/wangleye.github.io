@@ -1,6 +1,6 @@
 ## Biography
 
-Currently, I am an assistant professor at Peking University. Before, I was a research associate in the Hong Kong University of Science and Technology, working with Prof. Qiang Yang and Prof. Xiaojuan Ma from 2016 to 2018. In May 2016, I obtained Ph.D. at Institut Mines-Télécom (IMT) and Université Pierre et Marie CURIE (UPMC), Paris, under the supervision of Prof. Daqing ZHANG and Prof. Abdallah MHAMED. I got my B.S. (2009) and M.S.(2012) in computer science from Peking University, Beijing, under the supervision of Prof. Bing XIE. My Research interests include spatio-temporal computing, with special focus in crowd sensing & intelligence, security & privacy, and spatio-temporal transfer learning.
+Currently, I am a tenured associate professor at Peking University. Before, I was a research associate in the Hong Kong University of Science and Technology, working with Prof. Qiang Yang and Prof. Xiaojuan Ma from 2016 to 2018. In May 2016, I obtained Ph.D. at Institut Mines-Télécom (IMT) and Université Pierre et Marie CURIE (UPMC), Paris, under the supervision of Prof. Daqing ZHANG and Prof. Abdallah MHAMED. I got my B.S. (2009) and M.S.(2012) in computer science from Peking University, Beijing, under the supervision of Prof. Bing XIE. My Research interests include spatio-temporal computing, with special focus in crowd sensing & intelligence, security & privacy, and spatio-temporal transfer learning.
 
 Email: leyewang@pku.edu.cn
 
