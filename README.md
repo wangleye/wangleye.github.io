@@ -1,2 +1,2 @@
 # Leye Wang
-Assistant Professor, Peking University
+Associate Professor, Peking University
