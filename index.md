@@ -60,6 +60,8 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 ### Conference
 
+- **(new)** J. Zhu, J. Zha, D. Li, **L. Wang**, "AUnified Membership Inference Method for Visual Self-supervised Encoder via Part-aware Capability". CCS 2024.
+
 - **(new)** Y. Wu, L. Chen, Y. Cheng, S. Chen, J. Xu, **L. Wang**, "[Efficient User Sequence Learning for Online Services via Compressed Graph Neural Networks](https://arxiv.org/abs/2406.02979)". ICWS 2024.
 
 - **(new)** L. Chen, J. Fang, T. Liu, S. Cao, **L. Wang**, "[A Unified Model for Spatio-Temporal Prediction Queries with Arbitrary Modifiable Areal Units](https://arxiv.org/abs/2403.07022)". ICDE 2024.
