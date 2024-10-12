@@ -105,7 +105,7 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 - Xuanqi Xu (PhD Student @ PKU, 2022-)
 - Jiangyi Fang (PhD Student @ PKU, 2023-)
 - Linian Wang (PhD Student @ PKU, 2023-)
-- Yucheng Wu (PhD Student @ PKU, 2023-)
+- [Yucheng Wu](https://wuyucheng2002.github.io/) (PhD Student @ PKU, 2023-)
 - Tengfei Liu (PhD Student @ PKU, 2024-)
 - Anjie Xu (PhD Student @ PKU, 2024-)
 
