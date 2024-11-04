@@ -36,11 +36,11 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 ### Journal
 
-- **(new)** D. Chai, **L. Wang**, L. Yang, J. Zhang, K. Chen, Q. Yang. "[A Survey for Federated Learning Evaluations: Goals and Measures](https://ieeexplore.ieee.org/abstract/document/10480259)". IEEE Trans. Knowledge and Data Engineering, early access (2024). [[pdf](https://arxiv.org/pdf/2308.11841v2.pdf)]
+- D. Chai, **L. Wang**, L. Yang, J. Zhang, K. Chen, Q. Yang. "[A Survey for Federated Learning Evaluations: Goals and Measures](https://ieeexplore.ieee.org/abstract/document/10480259)". IEEE Trans. Knowledge and Data Engineering, early access (2024). [[pdf](https://arxiv.org/pdf/2308.11841v2.pdf)]
 
-- **(new)** J. Zhu, **L. Wang**, X. Han, A. Liu, T. Xie. "[Safety and Performance, Why Not Both? Bi-Objective Optimized Model Compression against Heterogeneous Attacks toward AI Software Deployment](https://ieeexplore.ieee.org/document/10378737)". IEEE Trans. Software Engineering, 50(3): 376-390 (2024). [[pdf](https://arxiv.org/pdf/2401.00996v1.pdf)]
+- J. Zhu, **L. Wang**, X. Han, A. Liu, T. Xie. "[Safety and Performance, Why Not Both? Bi-Objective Optimized Model Compression against Heterogeneous Attacks toward AI Software Deployment](https://ieeexplore.ieee.org/document/10378737)". IEEE Trans. Software Engineering, 50(3): 376-390 (2024). [[pdf](https://arxiv.org/pdf/2401.00996v1.pdf)]
 
-- **(new)** X. Han, Y. Yang, **L. Wang**, J. Wu, "[Privacy-Preserving Network Embedding against Private Link Inference Attacks](https://ieeexplore.ieee.org/document/10091141)". IEEE Trans. Dependable and Secure Computing, 21(2): 847-859 (2024).
+- X. Han, Y. Yang, **L. Wang**, J. Wu, "[Privacy-Preserving Network Embedding against Private Link Inference Attacks](https://ieeexplore.ieee.org/document/10091141)". IEEE Trans. Dependable and Secure Computing, 21(2): 847-859 (2024).
 
 - R. Ding, Y. Zhou, J. Xu, Y. Xie, Q. Liang, H. Ren, Y. Wang, Y. Chen, **L. Wang**, M. Huang, "[Cross-hospital Sepsis Early Detection via Semi-supervised Optimal Transport with Self-paced Ensemble](https://ieeexplore.ieee.org/document/10061196)". IEEE Journal of Biomedical and Health Informatics, 27(6): 3049-3060 (2023).
 
