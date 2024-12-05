@@ -36,6 +36,8 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 ### Journal
 
+- L. Chen, X. Wang, **L. Wang**. "Exploring Context Generalizability in Citywide Crowd Mobility Prediction: An Analytic Framework and Benchmark". IEEE Trans. Mobile Computing, accepted (2024).
+
 - D. Chai, **L. Wang**, L. Yang, J. Zhang, K. Chen, Q. Yang. "[A Survey for Federated Learning Evaluations: Goals and Measures](https://ieeexplore.ieee.org/abstract/document/10480259)". IEEE Trans. Knowledge and Data Engineering, early access (2024). [[pdf](https://arxiv.org/pdf/2308.11841v2.pdf)]
 
 - J. Zhu, **L. Wang**, X. Han, A. Liu, T. Xie. "[Safety and Performance, Why Not Both? Bi-Objective Optimized Model Compression against Heterogeneous Attacks toward AI Software Deployment](https://ieeexplore.ieee.org/document/10378737)". IEEE Trans. Software Engineering, 50(3): 376-390 (2024). [[pdf](https://arxiv.org/pdf/2401.00996v1.pdf)]
