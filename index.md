@@ -67,7 +67,7 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 - Y. Wu, L. Chen, Y. Cheng, S. Chen, J. Xu, **L. Wang**, "[Efficient User Sequence Learning for Online Services via Compressed Graph Neural Networks](https://arxiv.org/abs/2406.02979)". ICWS 2024.
 
-- L. Chen, J. Fang, T. Liu, S. Cao, **L. Wang**, "[A Unified Model for Spatio-Temporal Prediction Queries with Arbitrary Modifiable Areal Units](https://ieeexplore.ieee.org/document/10598038)". ICDE 2024. [[Arxiv](https://arxiv.org/abs/2403.07022)]
+- L. Chen, J. Fang, T. Liu, S. Cao, **L. Wang**, "[A Unified Model for Spatio-Temporal Prediction Queries with Arbitrary Modifiable Areal Units](https://ieeexplore.ieee.org/document/10598038)". ICDE 2024. [[Arxiv](https://arxiv.org/abs/2403.07022)] [[Code](https://github.com/uctb/One4All-ST)]
 
 - Y. Wu, **L. Wang**, X. Han, H. Ye, "[Graph Contrastive Learning with Cohesive Subgraph Awareness](https://dl.acm.org/doi/10.1145/3589334.3645470)". WWW 2024. [[Arxiv](https://arxiv.org/abs/2401.17580)]
 
