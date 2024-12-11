@@ -61,21 +61,21 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 - **L. Wang**, D. Zhang, Y. Wang, C. Chen, X. Han, A. Mhamed. “[Sparse Mobile Crowdsensing: Challenges and Opportunities](https://ieeexplore.ieee.org/document/7509395)”. IEEE Comm. Mag. 54(7): 161-167 (2016). [[**200+ citations**](https://scholar.google.com/citations?view_op=view_citation&hl=en&citation_for_view=o2I4sL8AAAAJ:UxriW0iASnsC)]
 
 ### Conference
-- J. Zhu, Y. Chen, M. Ding, P. Luo, **L. Wang**, Jingdong Wang, "[MoLE: Human-centric Text-to-image Diffusion with Mixture of Low-rank Experts](https://arxiv.org/abs/2410.23332)". NeurIPS 2024.
+- J. Zhu, Y. Chen, M. Ding, P. Luo, **L. Wang**, Jingdong Wang, "MoLE: Human-centric Text-to-image Diffusion with Mixture of Low-rank Experts". NeurIPS 2024. [[Arxiv](https://arxiv.org/abs/2410.23332)]
 
-- J. Zhu, J. Zha, D. Li, **L. Wang**, "[A Unified Membership Inference Method for Visual Self-supervised Encoder via Part-aware Capability](https://arxiv.org/abs/2404.02462)". CCS 2024.
+- J. Zhu, J. Zha, D. Li, **L. Wang**, "[A Unified Membership Inference Method for Visual Self-supervised Encoder via Part-aware Capability](https://dl.acm.org/doi/10.1145/3658644.3690202)". CCS 2024. [[Arxiv](https://arxiv.org/abs/2404.02462)]
 
 - Y. Wu, L. Chen, Y. Cheng, S. Chen, J. Xu, **L. Wang**, "[Efficient User Sequence Learning for Online Services via Compressed Graph Neural Networks](https://arxiv.org/abs/2406.02979)". ICWS 2024.
 
-- L. Chen, J. Fang, T. Liu, S. Cao, **L. Wang**, "[A Unified Model for Spatio-Temporal Prediction Queries with Arbitrary Modifiable Areal Units](https://arxiv.org/abs/2403.07022)". ICDE 2024.
+- L. Chen, J. Fang, T. Liu, S. Cao, **L. Wang**, "[A Unified Model for Spatio-Temporal Prediction Queries with Arbitrary Modifiable Areal Units](https://ieeexplore.ieee.org/document/10598038)". ICDE 2024. [[Arxiv](https://arxiv.org/abs/2403.07022)]
 
-- Y. Wu, **L. Wang**, X. Han, H. Ye, "[Graph Contrastive Learning with Cohesive Subgraph Awareness](https://arxiv.org/abs/2401.17580)". WWW 2024.
+- Y. Wu, **L. Wang**, X. Han, H. Ye, "[Graph Contrastive Learning with Cohesive Subgraph Awareness](https://dl.acm.org/doi/10.1145/3589334.3645470)". WWW 2024. [[Arxiv](https://arxiv.org/abs/2401.17580)]
 
-- L. Chen, L. Wang, J. Xu, S. Chen, W. Wang, W. Zhao, Q. Li, **L. Wang**, "[Knowledge-inspired Subdomain Adaptation for Cross-Domain Knowledge Transfer](https://arxiv.org/abs/2308.09724)". CIKM 2023.
+- L. Chen, L. Wang, J. Xu, S. Chen, W. Wang, W. Zhao, Q. Li, **L. Wang**, "[Knowledge-inspired Subdomain Adaptation for Cross-Domain Knowledge Transfer](https://dl.acm.org/doi/10.1145/3589334.3645470)". CIKM 2023. [[Arxiv](https://arxiv.org/abs/2308.09724)]
 
-- L. Chen, J. Fang, Z. Yu, Y. Tong, S. Cao, **L. Wang**, "[A Data-driven Region Generation Framework for Spatiotemporal Transportation Service Management](https://arxiv.org/abs/2306.02806)". KDD 2023.
+- L. Chen, J. Fang, Z. Yu, Y. Tong, S. Cao, **L. Wang**, "[A Data-driven Region Generation Framework for Spatiotemporal Transportation Service Management](https://dl.acm.org/doi/10.1145/3580305.3599760)". KDD 2023. [[Arxiv](https://arxiv.org/abs/2306.02806)]
 
-- R. Ding, X. Han, **L. Wang**, "[A Unified Knowledge Graph Augmentation Service for Boosting Domain-specific NLP Tasks](https://arxiv.org/abs/2212.05251)". ACL Findings 2023.
+- R. Ding, X. Han, **L. Wang**, "[A Unified Knowledge Graph Augmentation Service for Boosting Domain-specific NLP Tasks](https://aclanthology.org/2023.findings-acl.24/)". ACL Findings 2023. [[Arxiv](https://arxiv.org/abs/2212.05251)]
 
 - C. Huang, **L. Wang**, X. Han, "[Vertical Federated Knowledge Transfer via Representation Distillation for Healthcare Collaboration Networks](https://dl.acm.org/doi/10.1145/3543507.3583874)". WWW 2023.
 
