@@ -36,7 +36,7 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 ### Journal
 
-- L. Chen, X. Wang, **L. Wang**. "Exploring Context Generalizability in Citywide Crowd Mobility Prediction: An Analytic Framework and Benchmark". IEEE Trans. Mobile Computing, accepted (2024).
+- L. Chen, X. Wang, **L. Wang**. "[Exploring Context Generalizability in Citywide Crowd Mobility Prediction: An Analytic Framework and Benchmark](https://ieeexplore.ieee.org/abstract/document/10798468)". IEEE Trans. Mobile Computing, accepted (2024).
 
 - D. Chai, **L. Wang**, L. Yang, J. Zhang, K. Chen, Q. Yang. "[A Survey for Federated Learning Evaluations: Goals and Measures](https://ieeexplore.ieee.org/abstract/document/10480259)". IEEE Trans. Knowledge and Data Engineering, early access (2024). [[pdf](https://arxiv.org/pdf/2308.11841v2.pdf)]
 
