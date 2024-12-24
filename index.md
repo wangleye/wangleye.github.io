@@ -36,11 +36,11 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 ### Journal
 
-- L. Chen, X. Wang, **L. Wang**. "[Exploring Context Generalizability in Citywide Crowd Mobility Prediction: An Analytic Framework and Benchmark](https://ieeexplore.ieee.org/abstract/document/10798468)". IEEE Trans. Mobile Computing, accepted (2024).
+- L. Chen, X. Wang, **L. Wang**. "[Exploring Context Generalizability in Citywide Crowd Mobility Prediction: An Analytic Framework and Benchmark](https://ieeexplore.ieee.org/abstract/document/10798468)". IEEE Trans. Mobile Computing, accepted (2024). [[Arxiv](https://arxiv.org/abs/2106.16046)]
 
-- D. Chai, **L. Wang**, L. Yang, J. Zhang, K. Chen, Q. Yang. "[A Survey for Federated Learning Evaluations: Goals and Measures](https://ieeexplore.ieee.org/abstract/document/10480259)". IEEE Trans. Knowledge and Data Engineering, early access (2024). [[pdf](https://arxiv.org/pdf/2308.11841v2.pdf)]
+- D. Chai, **L. Wang**, L. Yang, J. Zhang, K. Chen, Q. Yang. "[A Survey for Federated Learning Evaluations: Goals and Measures](https://ieeexplore.ieee.org/abstract/document/10480259)". IEEE Trans. Knowledge and Data Engineering, early access (2024). [[Arxiv](https://arxiv.org/abs/2308.11841)]
 
-- J. Zhu, **L. Wang**, X. Han, A. Liu, T. Xie. "[Safety and Performance, Why Not Both? Bi-Objective Optimized Model Compression against Heterogeneous Attacks toward AI Software Deployment](https://ieeexplore.ieee.org/document/10378737)". IEEE Trans. Software Engineering, 50(3): 376-390 (2024). [[pdf](https://arxiv.org/pdf/2401.00996v1.pdf)]
+- J. Zhu, **L. Wang**, X. Han, A. Liu, T. Xie. "[Safety and Performance, Why Not Both? Bi-Objective Optimized Model Compression against Heterogeneous Attacks toward AI Software Deployment](https://ieeexplore.ieee.org/document/10378737)". IEEE Trans. Software Engineering, 50(3): 376-390 (2024). [[Arxiv](https://arxiv.org/abs/2401.00996)]
 
 - X. Han, Y. Yang, **L. Wang**, J. Wu, "[Privacy-Preserving Network Embedding against Private Link Inference Attacks](https://ieeexplore.ieee.org/document/10091141)". IEEE Trans. Dependable and Secure Computing, 21(2): 847-859 (2024).
 
@@ -48,7 +48,7 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 - X. Han, **L. Wang**, W. Fan. "[Cost-effective social media influencer marketing](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2022.1246)". INFORMS Journal on Computing, 35(1): 138-157 (2023).
 
-- **L. Wang**, D. Chai, X. Liu, L. Chen, K. Chen. "[Exploring the Generalizability of Spatio-Temporal Traffic Prediction: Meta-Modeling and an Analytic Framework](https://ieeexplore.ieee.org/document/9627543)". IEEE Trans. Knowledge and Data Engineering, 35(4): 3870-3884 (2023). [[pdf](https://arxiv.org/pdf/2009.09379.pdf)]
+- **L. Wang**, D. Chai, X. Liu, L. Chen, K. Chen. "[Exploring the Generalizability of Spatio-Temporal Traffic Prediction: Meta-Modeling and an Analytic Framework](https://ieeexplore.ieee.org/document/9627543)". IEEE Trans. Knowledge and Data Engineering, 35(4): 3870-3884 (2023). [[Arxiv](https://arxiv.org/abs/2009.09379)]
 
 - X. Han, **L. Wang**, W. Fan, “[Is Hidden Safe? Location Protection against Machine-Learning Prediction Attacks in Social Networks](https://misq.umn.edu/is-hidden-safe-location-protection-against-machine-learning-prediction-attacks-in-social-networks)”. MIS Quarterly, 45(2) (2021).
 
