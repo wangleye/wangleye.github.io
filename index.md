@@ -36,9 +36,9 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 ### Journal
 
-- L. Chen, X. Wang, **L. Wang**. "[Exploring Context Generalizability in Citywide Crowd Mobility Prediction: An Analytic Framework and Benchmark](https://ieeexplore.ieee.org/abstract/document/10798468)". IEEE Trans. Mobile Computing, accepted (2024). [[Arxiv](https://arxiv.org/abs/2106.16046)]
+- L. Chen, X. Wang, **L. Wang**. "[Exploring Context Generalizability in Citywide Crowd Mobility Prediction: An Analytic Framework and Benchmark](https://ieeexplore.ieee.org/abstract/document/10798468)". IEEE Trans. Mobile Computing, 24(5): 3597-3614 (2025). [[Arxiv](https://arxiv.org/abs/2106.16046)]
 
-- D. Chai, **L. Wang**, L. Yang, J. Zhang, K. Chen, Q. Yang. "[A Survey for Federated Learning Evaluations: Goals and Measures](https://ieeexplore.ieee.org/abstract/document/10480259)". IEEE Trans. Knowledge and Data Engineering, early access (2024). [[Arxiv](https://arxiv.org/abs/2308.11841)]
+- D. Chai, **L. Wang**, L. Yang, J. Zhang, K. Chen, Q. Yang. "[A Survey for Federated Learning Evaluations: Goals and Measures](https://ieeexplore.ieee.org/abstract/document/10480259)". IEEE Trans. Knowledge and Data Engineering, 36(10): 5007-5024 (2024). [[Arxiv](https://arxiv.org/abs/2308.11841)]
 
 - J. Zhu, **L. Wang**, X. Han, A. Liu, T. Xie. "[Safety and Performance, Why Not Both? Bi-Objective Optimized Model Compression against Heterogeneous Attacks toward AI Software Deployment](https://ieeexplore.ieee.org/document/10378737)". IEEE Trans. Software Engineering, 50(3): 376-390 (2024). [[Arxiv](https://arxiv.org/abs/2401.00996)]
 
@@ -61,6 +61,9 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 - **L. Wang**, D. Zhang, Y. Wang, C. Chen, X. Han, A. Mhamed. “[Sparse Mobile Crowdsensing: Challenges and Opportunities](https://ieeexplore.ieee.org/document/7509395)”. IEEE Comm. Mag. 54(7): 161-167 (2016). [[**200+ citations**](https://scholar.google.com/citations?view_op=view_citation&hl=en&citation_for_view=o2I4sL8AAAAJ:UxriW0iASnsC)]
 
 ### Conference
+
+- A. Xu, R. Ding, **L.Wang**, "ChatPD: An LLM-driven Paper-Dataset Networking System". KDD 2025 (Accepted).
+
 - J. Zhu, Y. Chen, M. Ding, P. Luo, **L. Wang**, Jingdong Wang, "MoLE: Human-centric Text-to-image Diffusion with Mixture of Low-rank Experts". NeurIPS 2024. [[Arxiv](https://arxiv.org/abs/2410.23332)]
 
 - J. Zhu, J. Zha, D. Li, **L. Wang**, "[A Unified Membership Inference Method for Visual Self-supervised Encoder via Part-aware Capability](https://dl.acm.org/doi/10.1145/3658644.3690202)". CCS 2024. [[Arxiv](https://arxiv.org/abs/2404.02462)]
