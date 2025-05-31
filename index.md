@@ -62,7 +62,7 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 ### Conference
 
-- A. Xu, R. Ding, **L.Wang**, "ChatPD: An LLM-driven Paper-Dataset Networking System". KDD 2025 (Accepted).
+- A. Xu, R. Ding, **L.Wang**, "ChatPD: An LLM-driven Paper-Dataset Networking System". KDD 2025. [[Arxiv](https://arxiv.org/abs/2505.22349)]
 
 - J. Zhu, Y. Chen, M. Ding, P. Luo, **L. Wang**, Jingdong Wang, "MoLE: Human-centric Text-to-image Diffusion with Mixture of Low-rank Experts". NeurIPS 2024. [[Arxiv](https://arxiv.org/abs/2410.23332)]
 
