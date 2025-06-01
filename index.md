@@ -112,7 +112,7 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 - [Jie Zhu](https://scholar.google.com/citations?user=ZL506kEAAAAJ&hl=zh-CN) (PhD Student @ PKU, 2021-) 
 - [Chung-ju Huang](https://chung-ju.github.io/) (PhD Student @ PKU, 2022-) 
 - Xuanqi Xu (PhD Student @ PKU, 2022-)
-- Jingxuan Huo (PhD Student 2 PKU, 2023-)
+- Jingxuan Huo (PhD Student @ PKU, 2023-)
 - [Jiangyi Fang](https://fangjiangyi.github.io/) (PhD Student @ PKU, 2023-)
 - Linian Wang (PhD Student @ PKU, 2023-)
 - [Yucheng Wu](https://wuyucheng2002.github.io/) (PhD Student @ PKU, 2023-)
