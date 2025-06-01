@@ -38,6 +38,8 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 - J. Huo, L. Chen, **L. Wang**. "[A Context Knowledge Guided Transformer Framework for Long‑term Traffic Prediction](https://rdcu.be/eoUey)". CCF Transactions on Pervasive Computing and Interaction (2025).
 
+- J. Fang, L. Chen, D. Chai, Y. Hong, X. Xie, L. Chen, **Leye Wang**. "[UCTB: an Urban Computing Tool Box for All-in-one Spatiotemporal Prediction Solution](https://link.springer.com/article/10.1007/s42486-025-00187-y)". CCF Transactions on Pervasive Computing and Interaction (2025).
+
 - L. Chen, X. Wang, **L. Wang**. "[Exploring Context Generalizability in Citywide Crowd Mobility Prediction: An Analytic Framework and Benchmark](https://ieeexplore.ieee.org/abstract/document/10798468)". IEEE Trans. Mobile Computing, 24(5): 3597-3614 (2025). [[Arxiv](https://arxiv.org/abs/2106.16046)]
 
 - D. Chai, **L. Wang**, L. Yang, J. Zhang, K. Chen, Q. Yang. "[A Survey for Federated Learning Evaluations: Goals and Measures](https://ieeexplore.ieee.org/abstract/document/10480259)". IEEE Trans. Knowledge and Data Engineering, 36(10): 5007-5024 (2024). [[Arxiv](https://arxiv.org/abs/2308.11841)]
