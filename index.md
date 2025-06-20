@@ -108,7 +108,7 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 ### Supervised Students
 - [Ruiqing Ding](https://ruiqingding.github.io/) (Assistant Professor @ Heifei University of Technology; PhD @ PKU, 2020-2024)
 - [Liyue Chen](https://liyue-chen.github.io/) (Researcher @ ByteDance; PhD @ PKU, 2020-2025)
-- Guanghong Fan (Engineer @ Li Auto; MSc @ PKU, 2021-2025)
+- [Guanghong Fan](https://github.com/fgh1999) (Engineer @ Li Auto; MSc @ PKU, 2021-2025)
 - [Jie Zhu](https://scholar.google.com/citations?user=ZL506kEAAAAJ&hl=zh-CN) (PhD Student @ PKU, 2021-) 
 - [Chung-ju Huang](https://chung-ju.github.io/) (PhD Student @ PKU, 2022-) 
 - Xuanqi Xu (PhD Student @ PKU, 2022-)
