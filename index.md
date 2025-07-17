@@ -10,7 +10,7 @@ Email: leyewang@pku.edu.cn
 
 Urban Computing ToolBox is a package providing spatial-temporal predicting models. It contains both conventional models and state-of-art deep learning models. Besides, benchmark datasets built from open data are included. More details in:
 
-- **L. Wang**, D. Chai, X. Liu, L. Chen, & K. Chen. "[Exploring the Generalizability of Spatio-Temporal Traffic Prediction: Meta-Modeling and an Analytic Framework](https://ieeexplore.ieee.org/document/9627543)". IEEE Trans. Knowledge and Data Engineering (2023).
+- **L. Wang**, D. Chai, X. Liu, L. Chen, & K. Chen. "[Exploring the Generalizability of Spatio-Temporal Traffic Prediction: Meta-Modeling and an Analytic Framework](https://ieeexplore.ieee.org/document/9627543)". IEEE Trans. Knowledge and Data Engineering, 35(4): 3870-3884 (2023).
 
 - 陈李越，柴迪，**王乐业**. "[UCTB: 时空人群流动预测工具箱](http://fcst.ceaj.org/CN/abstract/abstract2577.shtml)". 计算机科学与探索 (2021).
 
@@ -28,7 +28,7 @@ FedEval is a federated learning benchmark system with a comprehensive evaluation
 
 - D. Chai, **L. Wang**, K. Chen, & Q. Yang. "[FedEval: A Benchmark System with a Comprehensive Evaluation Model for Federated Learning](https://arxiv.org/abs/2011.09655)". arXiv (2022).
 
-- D. Chai, **L. Wang**, L. Yang, J. Zhang, K. Chen, Q. Yang. "[A Survey for Federated Learning Evaluations: Goals and Measures](https://ieeexplore.ieee.org/abstract/document/10480259)". IEEE Trans. Knowledge and Data Engineering, early access (2024).
+- D. Chai, **L. Wang**, L. Yang, J. Zhang, K. Chen, Q. Yang. "[A Survey for Federated Learning Evaluations: Goals and Measures](https://ieeexplore.ieee.org/abstract/document/10480259)". IEEE Trans. Knowledge and Data Engineering, 36(10): 5007-5024 (2024).
 
 ## Selected Publications
 
@@ -36,9 +36,11 @@ For full publication list, please visit my [Google Scholar](https://scholar.goog
 
 ### Journal
 
+- C. Huang, Y. He, X. Han, W. Jiao, Z. Jin, **L. Wang**. "UniTrans: A Unified Vertical Federated Knowledge Transfer Framework for Enhancing Edge Healthcare Collaboration". IEEE Trans. Mobile Computing, accepted (2025).
+
 - J. Huo, L. Chen, **L. Wang**. "[A Context Knowledge Guided Transformer Framework for Long‑term Traffic Prediction](https://rdcu.be/eoUey)". CCF Transactions on Pervasive Computing and Interaction (2025).
 
-- J. Fang, L. Chen, D. Chai, Y. Hong, X. Xie, L. Chen, **Leye Wang**. "[UCTB: an Urban Computing Tool Box for All-in-one Spatiotemporal Prediction Solution](https://link.springer.com/article/10.1007/s42486-025-00187-y)". CCF Transactions on Pervasive Computing and Interaction (2025).
+- J. Fang, L. Chen, D. Chai, Y. Hong, X. Xie, L. Chen, **Leye Wang**. "[UCTB: an Urban Computing Tool Box for All-in-one Spatiotemporal Prediction Solution](https://link.springer.com/article/10.1007/s42486-025-00187-y)". CCF Trans. Pervasive Computing and Interaction (2025).
 
 - L. Chen, X. Wang, **L. Wang**. "[Exploring Context Generalizability in Citywide Crowd Mobility Prediction: An Analytic Framework and Benchmark](https://ieeexplore.ieee.org/abstract/document/10798468)". IEEE Trans. Mobile Computing, 24(5): 3597-3614 (2025). [[Arxiv](https://arxiv.org/abs/2106.16046)]
 
